@@ -1,0 +1,21 @@
+---
+title: "Archives et infrastructures : il faut que tout bouge pour que rien ne bouge"
+---
+
+La présentation et les ressources de ce site sont liées à une intervention réalisée le 26 mars2025 dans le cadre du forum de l'Association des archivistes Français.
+
+Site du Forum : [https://forum.archivistes.org/](https://forum.archivistes.org/)
+
+## Présentation de l'intervention
+
+Cette conférence se propose d’aborder l’archive comme une infrastructure et d’observer les éléments et les actes nécessaires à sa maintenance.
+
+Les services d’archives, depuis le tournant numérique, sont à la fois producteurs de données, mais aussi réceptacle d’une production venant d’autres services ou d’individus. Les travaux sur l’archivage électronique se sont longtemps focalisés sur la longévité des supports, puis sur les formats, se limitant souvent aux aspects techniques de la pérennité. Mais bien moins sur le travail invisible des données (Denis et Goëta, 2016) qu’effectue celles et ceux dont les tâches sont de maintenir les fonds d’archives intelligibles et accessibles.
+
+Au-delà des seuls aspects technique ou matériel, la maintenance fait intervenir différents acteurs qui jouent un rôle dans la collecte et la conservation des archives numériques. Ces nouvelles collaborations s’accompagnent également d’une décentralisation de l’infrastructure des archives : outils, fonds, agents, usagers ne se retrouvent plus seulement dans une unité de bâtiment.
+
+Maintenir l’infrastructure nécessite par ailleurs de prendre conscience de la fragilité de l’ensemble des artefacts composant le système, qu’ils soient humains, techniques ou matériels. La maintenance est un sujet d’autant plus critique pour les archives qu’elles s’inscrivent dans une temporalité particulière : celle de l’éternité, en théorie.
+
+La maintenance suppose enfin de sortir d’une vision de sauvetage ou d’un acte unitaire de réparation, c’est, au contraire, un geste du quotidien qui devient une condition de pérennisation de l’information.
+
+Pour explorer ce travail autour de la notion de maintenance et pour analyser comment il se traduit pour les archives numériques, nous nous appuierons sur des travaux de chercheurs en archivistique, mais aussi sur ceux de sociologues des organisations. En complément de ce travail bibliographique, des entretiens avec les différents acteurs de la maintenance seront menés.

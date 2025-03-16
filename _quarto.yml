@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "Archives & infrastructures - Intervention forum AAF 2025"
+  navbar:
+    right:
+      - href: index.qmd
+        icon: bi-house-door-fill
+        text: Accueil
+      - href: presentation.qmd
+        icon: bi-file-slides-fill
+        text: Présentation
+      - href: biblio.qmd
+        icon: bi-file-text-fill
+        text: Bibliographie
+      - href: nous/index.qmd
+        icon: bi-people-fill
+        text: Qui sommes nous ?
+  search: false  
+  page-footer: 
+    center: "2025, site créé avec [Quarto](https://quarto.org/) par Anne-Laure Donzel. Photos et textes en CC-BY 4.0 sauf mention contraire."
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+
