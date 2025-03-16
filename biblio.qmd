@@ -130,6 +130,6 @@ title: "Bibliographie"
 :::
 
 ::: csl-entry
-<i>Collection no. 005 : Archive</i>, \[[https://roadsides.net/collection-no-005/]{style="text-decoration:underline;"}\].
+<i>Collection no. 005 : Archive</i>, \[\[<https://roadsides.net/collection-no-005/>\]{style="text-decoration:underline;"}\].
 :::
 :::::::::::::::::::::::::::::::::::

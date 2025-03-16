@@ -5,7 +5,7 @@ categories:
 author: Christine L. Borgman, Andrea Scharnhorst, Milena S. Golshan
 image: mediatingdata.jpg
 title: Digital Data Archives as Knowledge Infrastructures
-description: Article sur les infrastructures de recherche par en 2019
+description: Article sur les infrastructures de recherche paru en 2019
 ---
 
 [https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.24172](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.24172)
