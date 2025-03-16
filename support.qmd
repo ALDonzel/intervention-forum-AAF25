@@ -1,44 +1,7 @@
 ---
 title: "Il faut que tout bouge pour que rien ne change"
 author: "Anne-Laure Donzel & Julien Benedetti<br>Forum de l'AAF<br>26 mars 2025"
-title-slide-attributes:
-  data-background-image: img/fond.png
-  data-background-size: cover
-  
-format: revealjs
 editor: visual
 ---
 
-# {background-image="img/page2.png" background-size="contain"}
-
-# {background-image="img/page3.png" background-size="contain"}
-
-# {background-image="img/page4.png" background-size="contain"}
-
-# {background-image="img/page5.png" background-size="contain"}
-
-# {background-image="img/page6.png" background-size="contain"}
-
-# {background-image="img/page7.png" background-size="contain"}
-
-# {background-image="img/page8.png" background-size="contain"}
-
-# {background-image="img/page9.png" background-size="contain"}
-
-# {background-image="img/page10.png" background-size="contain"}
-
-# {background-image="img/page11.png" background-size="contain"}
-
-# {background-image="img/page12.png" background-size="contain"}
-
-# {background-image="img/page13.png" background-size="contain"}
-
-# {background-image="img/page14.png" background-size="contain"}
-
-# {background-image="img/page15.png" background-size="contain"}
-
-# {background-image="img/page16.png" background-size="contain"}
-
-# {background-image="img/page17.png" background-size="contain"}
-
-# {background-image="img/page18.png" background-size="contain"}
+Téléchargez le support [ici](AAF2025_Donzel_Benedetti.pdf).
