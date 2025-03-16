@@ -1,0 +1,29 @@
+---
+title: "Anne-Laure Donzel"
+image: micallef_ald.JPG
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - text: Mastodon
+      icon: mastodon
+      url: "https://framapiaf.org/@LeuLeu"
+    - text: 🦋 Bluesky
+      url: "https://bsky.app/profile/leuleu.bsky.social"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/ALDonzel"
+    - text: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/anne-laure-donzel-59a4b9136/"
+
+comments: false
+---
+
+## Bio
+
+Anne-Laure Donzel a été archiviste, chargée de projets d'archivage numérique, durant une quinzaine d'années.
+
+Elle est désormais consultante sur l'open data.
+
+~*Photo par Anthony Micallef*~

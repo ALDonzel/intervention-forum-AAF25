@@ -1,0 +1,17 @@
+---
+categories:
+- Archives du web
+- Pérennité
+author: Adrienne LaFrance
+image: raidersweb.jpg
+title: Raiders of the lost web
+description: Article paru dans *The Atlantic* en 2015
+---
+
+[https://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/](https://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/)
+
+>  In other formats, entire eras of meaningful work have been destroyed. Most of the films made in the United States between 1912 and 1929 have been lost. “And it’s not because we didn't know how to preserve them, it’s that we didn't think they were valuable,” Rumsey said. “The first 50 or 100 years of print after the printing press, most of what was produced was lost... People looked down on books as having less value in part because they were able to print things so rapidly and distribute them so much more rapidly that they seemed ephemeral.”
+
+Pérenniser c'est aussi reconnaître de la valeur au chose.
+
+~*Image couverture : Google Deepmind sur Unsplash*~

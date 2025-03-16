@@ -1,0 +1,58 @@
+---
+categories:
+- Soin
+- Maintenance
+author: Jérôme Denis
+image: denisnec.jpg
+title: Soin des choses et infrastructures numériques
+description: Intervention de Jérôme Denis durant Numérique en Communs 2024
+---
+
+# Notes prises durant l'intervention à NEC, septembre 2024
+
+Peu de numérique dans le livre
+Traite d'objets variés
+Art de faire durer les choses > notion de soin "se soucier de" 
+Inquiétude anthropologique > le soin traverse l'humanité depuis la nuit des temps
+Maintenance = travail lent répétitif routinier / place des femmes, des racisés etc
+Le soin des choses n'est pas la réparation (héros masculin qui remet en ordre les choses) maintenance s'inscrit dans la durée (vs le grand geste)
+Qu'est ce qui se passe quand on "fait compter la maintenance" ? dans de nombreux cas elle ne compte pas / elle est invisible
+
+Faire durer les choses cela soulève des questions philosophiques
+Qu'est ce que cela pose comme questions quand on parle du numérique ? 
+
+## accompagner les choses
+- Maintenance : accompagner des objets et des environnements dans leur existence (JD évoque la thèse d'Hafid et le discours sur la baisse des coûts de fonctionnement des infra) - investissement (bien) vs fonctionnement (pas bien). "On ne vieillit pas bien seul" besoin des autres 
+- Sur l'ouverture des données : question de comment on met à jour les portails et avec quels financements ? 
+
+## composer avec la fragilité
+- faire durée = reconnaitre que les choses sont fragiles. Point de départ des théories du care = vulnérabilité. fragilité = état normal des choses et du monde. On oublie cela dans le numérique : le numérique **doit** marcher, on ne veut pas de cette idée que la normalité c'est la vulnérabilité/la fragilité
+- Laura Kocksch *fragile computing* 
+- Note perso : les archivistes ont reconnu la fragilité du monde numérique très tôt / tous les contrôles intégrité, hash etc... sont une maintenance, un soin des données numériques
+- Thèse de Besençon (et articles)
+- Fragilité matérielle : cas de la maintenance des réseaux fibres par ex., c'est aussi le cas de la maintenance d'autres réseaux avce le réchauffement climatique. cette fragilité matérielle est souvent assez bien prise en compte car elle est très visible 
+
+## prêter attention 
+- Ex de Domesco
+- Mise en place d'infra dans l'urgence > aussi un mécanisme de l'attention
+
+## distribuer le travail et les responsabilités
+- c'est le travail de qui ? souvent un travail peu qualifié et qui manque d'argent (ex. Spotify qui a lancé un fonds  sur l'open source). distribuer un sale boulot et le reconnaître à sa juste valeur
+- Droit à la réparation et repair manifesto "droit à l'entretien et à la réparation"
+
+## enquêter
+- comprendre le code > ex. CAF et Cobol. L'objet code est difficile à comprendre et à ré-interpréter. Infra en réseau est toujours complexe à comprendre, maintenance = enquêter sur la structure de choses. Interdépendance : les choses reposent sur d'autres choses qui elles-mêmes ont des dépendances.
+- Jamais de statu quo, maintenance jamais une maîtrise complète des choses. ralentir au max le vieillissement des choses (ex. de la Joconde)
+
+## transformer
+- Maintenir un code = le changer, est-ce qu'il reste le même ? mathieu jacomi (?) à quel point les choses se transforment
+
+## lien avec les communs
+- faire compter le travail
+- rendre discutable la maintenance : politiser la maintenance. Faut-il continuer la maintenance not. en tenant compte des interdépendances ? (ex. des autoroutes plus chères à maintenir qu'à contruire) 
+
+Question ? est-ce à celui qui produit de maintenir ? la question se pose not dans le cas de la SO 
+
+Autre question : conservation des carto de la médiation numérique qui ont été faites ses 15 dernieres années. Beaucoup de temps sur l'interopérabilité mais peu sur la pérennisation.
+
+~*Image couverture : Google Deepmind sur Unsplash*~

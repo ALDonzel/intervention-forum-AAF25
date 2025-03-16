@@ -1,0 +1,25 @@
+---
+categories:
+- Philosophie
+- Open source
+author: Marcello Vitali-Rosati
+image: rosatibug.jpg
+title: Eloge du bug
+description: Notes sur l'ouvrage *Eloge du bug* paru en 2024 chez Zones
+---
+
+> Ce que la matière peut faire de mieux, c'est donc de ne pas se faire voir, de ne pas se faire remarquer : si tout fonctionne bien, elle aura rempli sa tâche sans trop déranger. Mais, dès qu'elle se manisfeste, c'est que quelque chose ne fonctionne pas bien pose problème. page 88
+
+> Ce discours sur les services nuagiques entre dans la rhéorique plus large fondée sur l'idée de "dématérialisation". Les entreprises comme Google, Amazon, Facebook, Apple, Microsoft, pour ne citer que celles qui forment l'acronyme GAFAM, insistent sur le fait que leur infrastructure est dématérialisée. Tout est symbolique : le calcul, les services, les données. Il n'y a plus de documnet, mais des ressources disséminées qui permettent de produire un document quand on en a besoi. Rien n'est situé, tout est partout, toujours accessible, jamais localisé. page 103
+
+> Étant donne que l'espace est aujourd'hui aussi numérique, une maison n'est plus seulement l'ensemble des éléments que nous venons de citer (murs, meubles, couleurs...), mais elle est aussi constituée d'un ensemble d'infrastructures numériques : connexions, appareils, application, environnements, plateformes. Aménager notre domicile - tout comme aménager notre ville ou nos espaces communs - signifie aussi amenager nos environnements numériques. Dans cette action d'aménagement, il est nécessaire de comprendre que les choix que nous faisons ont des implications fortes : aucun choix n'est neutre. Certes, pour rester dans l'exemple de la maison, nous pouvons rapidement aménager un appartement IKEA : nous pouvons prendre des "solutions" toutes faites, prêtes à être installées, avec très peu d'effort. Mais cette décision équivaut à affirmer que nous n'avons pas le temps ou les moyens de réfléchir à la manière d'organiser notre logement.
+
+Réflexion sur la culture du libre et de l'appropriation : 
+* Pour les archivistes : utilisations d'outils ouverts, formats ouvert pour l'AE ou même diffuser les données archivistiques.
+* Pour le public : avoir accès à la boite noire des archives (politique de collecte, classement, indexation, conservation/restauration, accès...), aussi en participant, comme par l'indexation collobarative --> Lien avec la notion de commun.
+
+Mise en avant de la non facilité, de la compléxité et de la multiplicité des espaces (physiques ou non).
+
+> Choisir le _low tech_ n'est pas la solution de quelqu'un qui ne serait pas assez compétent pour utiliser une technologie plus avancée, mais au contraire le choix d'une personne très compétente. Le _low tech_, comme le souligne Gauthier Roussilhe, demande un haut degré de compétences techniques de la part des personnes qui l'adoptent. A partir de cette idée, Roussilhe propose une sorte d'équation : plus de "haute technologie" implique moins de compétences techniques et _vice versa_.
+
+~*Image couverture : Google Deepmind sur Unsplash*~

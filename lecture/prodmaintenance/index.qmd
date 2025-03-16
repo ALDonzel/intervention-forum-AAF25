@@ -1,0 +1,26 @@
+---
+categories:
+- Données géographiques
+- Communs
+- Maintenance
+author: Denis Jérôme, Marquet Clément
+image: prodmaintenance.jpg
+title: De la production à la maintenance
+description: Article paru dans *Questions de communication* en 2019
+---
+
+> nous nous inscrivons dans la lignée des recherches qui défendent une approche « processuelle » de la cartographie (Kitchin, Dodge, 2007) afin de comprendre ce qui se joue dans la dynamique même de la fabrique contemporaine des données géographiques et ce que cette dynamique donne à voir des articulations concrètes entre les outils et infrastructures dits « numériques » et les processus territoriaux. (page 64)
+
+>  Ces choix qui peuvent sembler « purement » techniques sont toujours organisationnels et, in fine, politiques. (page 66)
+
+> Nous le verrons au fil du texte, les déplacements des personnes au sein des deux organisations et l’intégration progressive de nouveaux acteurs invitent à dépasser cette distinction trop rigide qui plaquerait l’analyse sur des identités stabilisées et a priori explicatives. Être attentifs à ces déplacements et hybridations empêche par ailleurs de marquer une séparation nette entre les initiatives cartographiques qui feraient intervenir des contributeurs « amateurs » d’un côté et celles qui impliqueraient des « professionnels » ou des « experts » de l’autre. (page 68)
+
+> Néanmoins, fournir ces services suppose non seulement l’existence d’une base de données complète, mais aussi que l’intégrité et la validité de ces données soient assurées. Cela signifie deux choses. D’abord, les données doivent être à jour. [...] Ensuite, il faut éviter qu’elles ne soient dégradées, volontairement ou non. (page 76)
+
+> Une fois le plus gros du travail effectué, à qui confier cet autre versant de la génération des données ? Autrement dit, comment mettre en œuvre ce que Karen S. Baker et Helena Karasti (2018) appellent le « soin des données » ? (page 77)
+
+> Au fil des opérations et des épreuves, nous avons plus généralement vu que la frontière entre les deux organisations devenait elle-même de plus en plus poreuse. (page 79)
+
+> Toutefois, comme l’a rappelé S. L. Star à de nombreuses reprises (Bowker, Star, 1999 ; Star, 2010), la notion d’objets frontières sert par ailleurs à décrire des instruments qui sont mobilisés à l’interface de mondes sociaux qui sont appelés à coopérer malgré des préoccupations très différentes, sans que leurs modes de fonctionnement ne s’en trouvent perturbés. Les objets frontières (ou les « infrastructures frontières », qui seront finalement ce qui intéresseront Geoffrey C. Bowker et S. L. Star en premier lieu) sont des moyens qu’élaborent les partenaires pour faire tenir un espace de collaboration. (page 80)
+
+~*Image couverture : Google Deepmind sur Unsplash*~

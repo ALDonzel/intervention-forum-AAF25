@@ -1,0 +1,17 @@
+---
+categories:
+- Archives
+- Données
+author: Jason Koebler
+image: dataset.jpg
+title: Archivists Work to Identify and Save the Thousands of Datasets Disappearing From Data.gov
+description: Article du blog 404 Media, paru en 2025
+---
+
+[https://www.404media.co/archivists-work-to-identify-and-save-the-thousands-of-datasets-disappearing-from-data-gov/](https://www.404media.co/archivists-work-to-identify-and-save-the-thousands-of-datasets-disappearing-from-data-gov/)
+
+> Data.gov serves as an aggregator of datasets and research across the entire government, meaning it isn’t a single database. This makes it slightly harder to archive than any individual database, according to Mark Phillips, a University of Northern Texas researcher who works on the End of Term Web Archive, a project that archives as much as possible from government websites before a new administration takes over. 
+
+Idée liée à l'open content : favoriser la réutilisation c'est lutter contre la disparition, parce que les données/archives sont utilisées, elles "existent" et mènent une nouvelle vie. Idée de dissemination pour la préservation.
+
+~*Image couverture : Google Deepmind sur Unsplash*~

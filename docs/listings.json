@@ -1,0 +1,28 @@
+[
+  {
+    "listing": "/lecture/index.html",
+    "items": [
+      "/lecture/boitenoire/index.html",
+      "/lecture/bowkerstar/index.html",
+      "/lecture/datasetdisappearing/index.html",
+      "/lecture/denisnec/index.html",
+      "/lecture/denispointillesoin/index.html",
+      "/lecture/doccadrearchives/index.html",
+      "/lecture/infrarecherche/index.html",
+      "/lecture/mediatingdata/index.html",
+      "/lecture/neelycohenstorage/index.html",
+      "/lecture/prodmaintenance/index.html",
+      "/lecture/raidersweb/index.html",
+      "/lecture/rosatibug/index.html",
+      "/lecture/starethno/index.html",
+      "/lecture/tracemaintenance/index.html"
+    ]
+  },
+  {
+    "listing": "/nous/index.html",
+    "items": [
+      "/nous/annelaure/index.html",
+      "/nous/julien/index.html"
+    ]
+  }
+]

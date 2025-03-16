@@ -1,0 +1,66 @@
+---
+categories:
+- Infrastructures de la connaissance
+- Données de recherche
+author: Christine L. Borgman, Andrea Scharnhorst, Milena S. Golshan
+image: mediatingdata.jpg
+title: Digital Data Archives as Knowledge Infrastructures
+description: Article sur les infrastructures de recherche par en 2019
+---
+
+[https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.24172](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.24172)
+
+Exemple de l'infrastructure Néozélandaise d'archives ouvertes et de données de la recherche.
+
+Intéressant sur la notion d'infrastructure de la connaissance et de l'archive ouverte dans un environnement plus global.
+
+Retour sur le lien entre usagers et infrastructure.
+
+> Knowledge infrastructures are "robust networks of people, artifacts, and institutions that générate, share, and maintain specific knowledge about the human and natural worlds" (edwards, 2010, p.17). They are living systems influenced by complex sociotechnical factors (Borgman et al., 2015; Edwards et al., 2013; Karasti & Blomberg, 2017).
+
+> Making data "open" occurs in a knowledge infrastruture that mediates exchanges between creators and consumers, both enabling and constraining the use that can be made of those data.
+
+> The study reported here opens that black box to examine the roles and relationships of data contributors, data consumers, and data curators. Of specific concern are the characteristics and capabilities of knowledge infrastructures supporting data exchange and the mediating roles played by archives as institutions and by archivists as partners with contributors and consumers.
+
+> Data archives range widely in mission, from providing immediate access to replication data sets to long-term preservation. Accordingly, the vary in the degree of investment in data curation.
+
+> The avaibility of data for resue depends on infrastructure to make those data discoverable, retrievable, interpretable, and usable. (Borgman, 2015; Bowker, 2005; Edwards et al., 2013; Karasti & Blomberg, 2017; Latour, 1987; Latour & Woolgar, 1986; Star et al., 2003; Star & Ruhleder, 1996).
+
+> Data sharing and reuse are context-specific
+
+> Assessing the match between content, services, and communities is difficult enough when the users self-identify with a domain. Much harder to study are the
+archives that serve broad communities with diverse types of data; for example, those that span the social sciences and humanities such as DANS, or institutional repositories that serve all schools and departments of one or more universities. The more generic the data collection, the more diverse the community of users.
+
+> Prepared to invest some time in helping people who request his data and not just saying, ‘Okay. There are 200 datasets and good luck with it.’ Because it gives me a moral right to ask for some support when I need data as well, because the dataset may contain ... thousands of files.
+
+> They assist contributors with metadata, migration to archival formats, documentation, and ingest processes.
+
+> Experience in working with users also contributes to software design and maintenance.
+
+> The work of DANS staff is best understood in relation to the larger knowledge infrastructure in which DANS/EASY operates.
+
+> To fulfill these responsibilities, DANS has collaborators in the Netherlands, Europe, and elsewhere. Partners include government agencies that contribute census and statistics data, institutions that contract with DANS to contribute other kinds of data, universities and libraries who partner with DANS on “front end” services, agencies who require deposit with DANS, the Netherlands Royal Library, and the Dutch funding agencies that provide continuing support. DANS also provides services and databases associated with their many research projects.
+
+> Acquiring and curating data. DANS archivists solicit data for the collection by reading journals in their covered domains by attending conferences and olding workshops, and by contacting prospective contributors directly. They have developed a community that contributes data sets for stewardship and long-term access.
+
+> Archivists reported that contributors often view self-archiving as simply depositing data “as is.”
+
+> Contributor6 mentioned his great relief when a DANS archivist returned his data set after finding personally identifiable data that were inadvertently left in the file. He cleaned the data and returned them to DANS for ingest.
+
+> The self-archiving imperative justifies time spent on collection building, expecting that more data attracts more contributors and consumers, in a virtuous cycle.
+
+> Some staff emphasized the responsibility of contributors to add metadata as part of the self-archiving processes, whereas others viewed metadata and curation as a staff function. Archivists consider themselves better at describing data sets in ways that others could find and use them.
+
+> DANS’ operating principle is “Open if possible, protected where necessary” (Data Archiving and Networked Services, 2017). Although the staff would generally prefer to release data sets openly under Creative Commons licenses, they recognize that they can acquire some important data sets only by allowing those contributors to maintain a degree of control over access.
+
+> Infrastructures are difficult to study because they are most visible when they break down and least visible when functioning well (Borgman, 2000; Edwards et al., 2013; Karasti & Blomberg, 2017; Star et al., 2003; Star & Ruhleder, 1996).
+
+> Mediating openness. Digital data archives such as DANS/EASY are not simply publishing platforms in which contributors deposit data for anyone to use. They mediate open access to data in several ways. One way is by providing the infrastructure — human, technical, and institutional — that facilitates deposit, retrieval, and stewardship (Lee et al., 2006). Another way is by governing the rules of exchange between contributors and consumers.
+
+> Data archives are not passive repositories, nor are they simply databases of content.
+
+> Metadata standards and classification can assure some basic level of discovery, but standardizing formats and vocabularies across content that spans government statistics, archeological digs, oral histories, and biological records is nigh unto impossible. More investment in metadata, documentation, and retrieval tools would enhance discovery, but tradeoffs in these labor-intensive investments are necessary. Human infrastructure is expensive, but essential, for sustaining access to research data (Borgman, 2015; Lee et al., 2006).
+
+> Digital data archives such as DANS are investments that keep on giving over long periods of time. They are expensive, labor-intensive, hard to measure, and evolving. They take many years to build but can degrade quickly through lack of continuous investment. They must constantly prove their value to their communities, as must any organization. However, as an information institution, their most important communities—the generations of the future—have not yet been born. The value of digital data archives in data sharing and reuse can be evaluated only by taking a very long view.
+
+~*Image couverture : Google Deepmind sur Unsplash*~

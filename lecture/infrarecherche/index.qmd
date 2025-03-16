@@ -1,0 +1,18 @@
+---
+categories:
+- Infrastructures
+- Données de recherche
+author: Nicolas Sauret, Jean-Luc Minel, Mélanie Bunel, Stéphane Pouyllau
+image: infrarecherche.jpg
+title: Infrastructures, architectures et outils des données de la recherche
+description: Article paru dans *Les nouveaux paradigmes de l'archive* en 2024
+---
+
+
+[https://books.openedition.org/pan/7306?lang=fr](https://books.openedition.org/pan/7306?lang=fr)
+
+La citation comme donnée de recherche et qui suppose d'organiser, de structurer une infra de mise à disposition, de partage et, in fine, de reproductibilité. Les archivistes râlent beaucoup sur le manque de citation, mais qu'est-ce qui est mis en place pour permettre (voire faciliter) la citation. Envisager la citation comme une donnée et pas un simple élément textuel type cote.
+
+Dimension macro : parmis les grandes familles d'usage des archives, la recherche a une grande place. Une dimension réellement infrastructurale permettrait d'avoir une vision où des liens pourraient exister entre archives et infra de recherche (HAL, Nakala, Isidore...) : liens, connections, citations. Fairisation des données archives et interropérabilité au moment de la collecte des données par les chercheurs ? Actuellement, l'interropérabilité est "post" du dépôt vers autres outils de publi, il pourrait y avoir une interropérabilité "ante" : depuis la collecte des données par les chercheurs > dépôt > autres outils de publication.
+
+~*Image couverture : Google Deepmind sur Unsplash*~

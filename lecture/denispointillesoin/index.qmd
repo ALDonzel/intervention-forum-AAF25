@@ -1,0 +1,18 @@
+---
+categories:
+- Soin
+- Maintenance
+author: Jérôme Denis, David Pointille
+image: denispointille.jpg
+title: Le Soin des choses
+description: Notes sur l'ouvrage *Le soin des choses*, paru chez La Découverte en 2023
+---
+
+
+P. 127 : l'attention c'est sortir des normes et des indicateurs définis par règlement (ex. de l'industrie à risque : va au-delà des normes). Vigilance applications des règles + improvisation in situ
+
+P.148 : maintenance = exploration par le démontage des objets. Maintenir c'est parfois transformer (ex. de l'émulation logiciel).
+
+P.215 Moritz Fürst, culture = ralentir le vieillissement des artefacts, lutter contre la sénescence, retour sur la matérialité. Maintenance comme ralentissement du temps
+
+~*Image couverture : Google Deepmind sur Unsplash*~

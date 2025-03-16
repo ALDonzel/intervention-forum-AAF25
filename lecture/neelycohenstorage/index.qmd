@@ -1,0 +1,89 @@
+---
+categories:
+- Archives
+- Pérennité
+author: Maxwell Neely-Cohen
+image: century.jpg
+title: Century scale storage
+description: Très beau site du Laboratoire d'innovation de la bibliothèque d'Harvard, qui entend répondre à la question *Et si vous deviez conserver quelque chose durant 100 ans, comment feriez vous ?*
+---
+
+
+[https://lil.law.harvard.edu/century-scale-storage/](https://lil.law.harvard.edu/century-scale-storage/)
+
+En posant la question "Si vous deviez conserver durant 100 ans, comment feriez-vous ?", cet objet numérique passe en revue différents modes de stockage de l'information numérique (sur disque durs, dans le cloud, par impression...). Il détaille ainsi les avantages, les inconvénients et les enjeux de chaque mode de conservation. Il met en évidence que ce n'est pas le moyen matériel qui compte mais que c'est **la maintenance**.
+
+> No single methodology that we discuss holds an obvious answer to this question, and that is fine, particularly because professional archivists recommend making and storing multiple copies of anything in multiple formats as a best practice. For example, the Smithsonian endorses a “3-2-1 Rule” when it comes to data storage: “3 copies of the data, stored on 2 different media, with at least 1 stored off-site or in the cloud.” Or as archivist Trevor Owens puts it in his seminal text Theory and Craft of Digital Preservation, “In digital preservation we place our trust in having multiple copies. We cannot trust the durability of digital media, so we need to make multiple copies.” When storing digital data, archivists recommend utilizing file formats that are widespread and not dependent on a single commercial entity—in the words of the Smithsonian, “non-proprietary, platform-independent, unencrypted, lossless, uncompressed, [and] commonly used.” But at the century scale, even our most widely adopted file formats are completely untested. Digital history is not long enough to definitively settle on best practices. 
+
+Instantanéité de la restitution des supports en parallèle de la perte d'une vision sur le long terme des artefact.
+Le sujet au coeur de la préservation numérique est ancien et ancré dans la théorie archivistique : préserver le matériel, le logiciel est indispensable pour la perennité du contenu.
+
+> Putting data on a hard drive is an act of writing.
+
+La perennité numérique est tributaire des fabriquants, intégrer la faible qualité des matériaux est indispensable
+
+> It’s a component of what could be called digital Fordism, a digital order marked by the mass production of standardized hardware products meant for standardized software, used by the masses and specialists alike. 
+
+Denis/Pointille : la maintenance passe par un ensemble de signe extérieur, visibles par celles et ceux qui sont chargés de la maintenance. Comment cela peut-il se passer dans un monde numérique ou la dégradation du contenu n'est pas immédiatement visible. Quel appel aux sens ?
+
+> RAID arrays require maintenance, checks, and physical inspections when running over long periods.
+
+> To achieve century-scale storage, you would have to create, fund, and ensure the survival of an institution to maintain, financially support, and remember them. This institution would also have to preserve the file formats, software, hardware, operating system, and every other digital element the data you are storing relies on, and continue to develop means to access them. 
+
+Intégrer la *fragilité* dans la réflexion. Sortir d'une vision démiurge de la pérenisation (maintenir à tout prix en l'état ou avoir le support/format/matériel ultime et absolu) pour accepter la fragilité et la dégénerescence 
+
+> Fragility, and the culture it creates, can be an asset in inspiring the sort of care necessary for the long term. A system that seeks the indestructible or infallible has the potential to encourage overconfidence, nonchalance, and the ultimate enemy of all archives, neglect. 
+
+Question des services qui utilisent leur logiciel en SaaS. Dans ce cas : infra en partie décentralisée et gérée par un tiers. L'avantage est de ne pas gérer toute la partie maintenance technique, néanmoins elle existe et doit être contrôlée, anticipée par le donneur d'ordre. 
+
+> Of the 39 archives, libraries, and collectors I surveyed for this project, 27 use a cloud storage service as the primary site of their digital collections. 
+
+> To store data in the cloud is to outsource that storage, to give it over to a custodian, a guardian, whose sole purpose is receiving, safeguarding, and delivering that data for whomever is willing to pay. 
+
+Avec le cloud, il y a également l'idée d'une meilleur garantie sur la conservation (mieux sécurisée...). On va retrouver (avec les data center) les problématiques traditionnelles des intitutions culturelles : risques liés aux inondations, incendies, vols, intrusion... et en plus des problématiques géo-politiques plus complexes que sur l'environnement physique (liés à l'extratérritorialité de la localisation des data centers). A cela s'ajoute le sujet des câbles sous-marins qui doivent aussi faire l'objet d'une maintenance.
+
+> Despite the internet’s founding dream, its birth ideal, of being a telecommunications network that could survive a nuclear attack, it’s fairly certain any substantive nuclear exchange would render the cloud unusable.
+
+Dans le cas du cloud, la pérennisation repose sur un contrat marchand : tant que vous payer il y a une garantie de service, mais le jour où vous arrêtez...
+
+> But you still have to pay them. Every month or every year. Forever. You can turn off the machines that you own for a while and then turn them back on, and everything you stored will still be there, but if you stop paying your cloud storage fee the data is gone, probably forever. 
+
+La pérennisation via une infra cloud pose moins des questions techniques que des questions de confiance, de stabilité d'acteurs et de valeurs.
+
+> Most companies do not last long. They get acquired or split up into pieces or go bankrupt or decline into something much smaller or are upended by catastrophic geopolitical events. 
+
+Alors que les géants du stockage numérique prétendent à la conservation, l'accès, la sécurisation... des données, ils méconnaissent généralement tout de la préservation numérique.
+
+> “I didn’t even know we had any clients like that,” a Microsoft product manager told me when I asked how she felt about protecting archives.
+
+Nombreux cas où des données nativement numériques ont disparu : être sur internet n'est pas un gage de conservation.
+
+> The cloud is fairly centralized, because the companies that run it are fairly centralized. 
+
+> The cloud does not exist in a vacuum. It is dependent on a far-reaching fabric of interactions, telecoms, internet service providers, and hardware manufacturers, all of which are motivated by timescales far removed from a century.
+
+> While various international law frameworks for the protection of cultural and intellectual heritage during wars have existed since the 19th century, no such frameworks exist for peacetime. If they did, they might radically change our capacity to trust both the custodians of the cloud and corporate rights holders. A different legal and civic order would affect this entire analysis. But for now, the cloud is only governed by itself. 
+
+Internet, le réseau n'est pas un système décentralisé  quel impact sur l'infrastructure ? Notamment sur la dépendance aux composants techniques (ex. des puces qui viennent en très très grande partie d'un fabriquant taïwannais)
+
+Idée du piratage comme d'un mode de préservation numérique décentralisé (SciHub par ex.)
+
+L'identifiant pérenne est un élément infrastructurel
+
+> We can imagine how decentralization could provide security against destructive scenarios, how it would protect an archive in case of invasion, fire, bombing, and cyberattack. But none of those are what primarily kills archives. Boring human neglect kills archives.
+The most pressing question for decentralized storage services is: Can they inspire care? 
+
+> One of the few clear benefits of centralization is that it inspires care. If people know something is important, of value, potentially even the last of something, they tend to fight every day to protect it. The history of war, strife, and disaster is also the history of archivists, curators, artists, scientists, and passionate Samaritan bystanders saving works from impending destruction at great personal risk and sacrifice. The survivorship bias present in the human canon is merely an echo of thousands of acts of heroism.
+
+Sur cette idée de décentralisation : il y a une grande différence entre bibliothèque et archives sur la décentralisation. Le livre étant souvent multiple, une conservation décentralisée est possible d'une certaine manière. Ce qui était impossible pour les archives ppier (unique par essence). Le numérique vient changer cela : soit par la num, soit par la possibilité de dupliquer.
+
+> The success of century-scale storage comes down to the same thing that storage and preservation of any duration does: maintenance. 
+
+Il faut accepter l'évolution, le changement. Même le plus poussé des supports de stockage (ADN par ex.) nécessitera de la maintenance.
+> How it is stored will evolve or change as it is maintained, but if there are maintainers, it will persist. 
+
+Plus il va y avoir de dépendances : matériel, logiciel...plus la maintenance sera importante.
+
+> The real solution to century-scale storage, especially at scale, is to change this reality. Successful century-scale storage will require a massive investment in digital preservation, a societal commitment. Politicians, governments, companies, and investors will have to be convinced, incentivized, or even bullied.
+
+~*Image couverture : Google Deepmind sur Unsplash*~

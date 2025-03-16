@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Archives & infrastructures - Intervention forum AAF 2025"
@@ -8,12 +9,18 @@ website:
       - href: index.qmd
         icon: bi-house-door-fill
         text: Accueil
-      - href: presentation.qmd
+      - href: support.qmd
         icon: bi-file-slides-fill
-        text: Présentation
+        text: Support
+      - href: intervention.qmd
+        icon: bi-chat-quote-fill
+        text: Texte intervention
       - href: biblio.qmd
         icon: bi-file-text-fill
         text: Bibliographie
+      - href: lecture/index.qmd
+        icon: bi-pen-fill
+        text: Notes de lecture
       - href: nous/index.qmd
         icon: bi-people-fill
         text: Qui sommes nous ?

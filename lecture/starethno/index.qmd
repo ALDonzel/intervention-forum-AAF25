@@ -1,0 +1,43 @@
+---
+categories:
+- Ethnographie
+- Objet-frontière
+- Infrastructures
+author: Susan Leigh Star
+image: starethno.jpg
+title: L'ethnographie des infrastructures
+description: Article paru en 2018 dans la revue Tracés
+---
+
+recherche "objet frontière" :
+
+[Article de Star](https://shs.cairn.info/revue-anthropologie-des-connaissances-2010-1-page-18?lang=fr&tab=texte-integral)
+
+[Définition](https://books.openedition.org/pum/4333?lang=fr)
+
+rapprochement avec "mobiles immuables" (Latour, 1987)
+
+Lien infrastructure / acteur réseau (Star - Bowker, 1997)
+
+Les infrastructures ne sont pas des choses séparées de leurs usages (Star et Ruhleder, 1996, p.113)
+
+Infrastructure et ajustements entre gestes ordinaires, matériaux, technologies et signification.
+
+Etre aux prises avec l'infrastructures fait partie intégrate du travail technique
+Notion d'obstacles : 
+> Ce qui est infrastructure pour l'un est enjeu ou obstacle pour l'autre. 
+
+L'infrastructure est relationnel.
+
+Pour Leigh Star, infra =
+* encastrement
+* transparence
+* portée ou étendue
+* apprise par appartenance
+* liens avec des conventions ou des pratiques
+* incorporation de normes et de standards
+* construite sur un socle pré-existant
+* devient visible en cas de défaillance
+* se répare de manière incrémentale et modulaire, ni en 1 fois ni intégralement
+
+~*Image couverture : Google Deepmind sur Unsplash*~

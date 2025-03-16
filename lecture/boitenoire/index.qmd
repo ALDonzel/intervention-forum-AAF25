@@ -1,0 +1,31 @@
+---
+categories:
+- Infrastructures
+- Définitions
+author: Timothy Mitchell, Pierre Charbonnier, Julien Vincent
+image: boitenoire.jpg
+title: Étudier les infrastructures pour ouvrir les boîtes noires politiques
+description: Entretien avec Timothy Mitchell, réalisé en 2018 et paru dans la revue Tracés
+---
+
+[https://journals.openedition.org/traces/8499](https://journals.openedition.org/traces/8499)
+
+Article un peu loin de notre sujet mais qui offre qq réflexions intéressantes, les 4/5 premières questions sont à lire : 
+
+**Appel au changement de perspective** lors de la mise en place d'infra technique : quelles externalités positives non prévues ? quelles améliorations des processus par ex. ?
+
+> En général, je ne pense pas que nous devrions présupposer que les structures techniques complexes nécessitent un grand appareil d’État – pas plus qu’elles ne nécessitent de grandes entreprises multinationales, si l’on pense à l’industrie du pétrole. Il faudrait plutôt renverser la question : comment la mise en place d’un dispositif technique facilite-t-elle la naissance de créances financières, de relations d’endettement, de régimes de protection et de pouvoirs juridiques qui deviennent de plus en plus stables, de plus en plus étendus et interconnectés ?
+
+**Appel à l'ouverture des boîtes noires**. Les archivistes sont souvent aussi dans une boîte noire.
+
+> Pour reprendre une formule souvent utilisée en sociologie des sciences, je cherche à ré-ouvrir des « boîtes noires ». J’ai tendance à me représenter la communauté universitaire comme vivant à l’intérieur de boîtes – des boîtes disciplinaires auxquelles on donne le nom d’« État », d’« économie », ou d’« histoire », qui sont aussi les boîtes de nos mondes sociotechniques – et n’osant pas faire tomber le plâtre des murs.
+
+**Infrastructure : ensemble de canaux et de connexions qui ne sont pas forcément visibles**. 2 choses : 
+    * Notion de travail en réseau et de sociabilité : ex. d'AMAE ou par le pair à pair on a appris, on a construit, on fait l'infra
+    * ingénieurs français du rail au XIXe différencient infrastructure (tout ce qui précèdent : enquêtes, plans...) et superstructure (les rails eux-mêmes). Cela aboutie a une différence entre sphere publique (infra) et privée (super)
+
+> Selon [Elyachar], les pratiques de la sociabilité féminine produisent une infrastructure sociale faite de canaux de communication. Cette infrastructure sert de point d’appui à une diversité de projets économiques, à la fois personnels et collectifs. Elle interprète les projets d’empowerment de ces femmes au sein de l’industrie du développement international, comme une tentative pour rendre visible cette infrastructure collective, et pouvoir ainsi la monétiser pour en faire une source de revenus.
+
+> Il ne faut pas que le terme d’« infrastructure » devienne un terme attrape-tout, un peu comme celui de « réseau », pour parler de toutes les choses qui sont reliées les unes aux autres de façon invisible. L’infrastructure a une relation spécifique aux flux, aux matériaux, à la durabilité technique, au travail, au mouvement et à l’interconnexion. Comme nous le rappelle Andrew Barry (2015), du fait que l’infrastructure est faite pour durer, il faut la soumettre à toute une série de travaux d’entretien pour réparer les pannes et prévenir l’usure, mais aussi à des pratiques d’inspection, de vérification du matériel et de surveillance. Tout ceci doit nous permettre de nous éloigner des conceptions trop simples qui identifient l’infrastructure à un réseau, ou qui l’opposent à la superstructure.
+
+~*Image couverture : Google Deepmind sur Unsplash*~
