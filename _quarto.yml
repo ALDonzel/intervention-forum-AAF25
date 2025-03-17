@@ -11,10 +11,7 @@ website:
         text: Accueil
       - href: support.qmd
         icon: bi-file-slides-fill
-        text: Support
-      - href: intervention.qmd
-        icon: bi-chat-quote-fill
-        text: Texte intervention
+        text: Intervention
       - href: biblio.qmd
         icon: bi-file-text-fill
         text: Bibliographie

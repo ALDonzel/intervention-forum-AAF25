@@ -1,6 +1,0 @@
----
-title: "Support de l'intervention"
-editor: visual
----
-
-he slides are available [here](2024002761.pdf).

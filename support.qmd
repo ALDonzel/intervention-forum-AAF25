@@ -1,7 +1,15 @@
 ---
 title: "Il faut que tout bouge pour que rien ne change"
-author: "Anne-Laure Donzel & Julien Benedetti<br>Forum de l'AAF<br>26 mars 2025"
+subtitle: "Forum de l'AAF"
+author: "Anne-Laure Donzel & Julien Benedetti"
+date: "26 mars 2025"
 editor: visual
 ---
 
+# Support de l'intervention
+
 Téléchargez le support [ici](AAF2025_Donzel_Benedetti.pdf).
+
+# Texte de l'intervention
+
+# Liens et ressources sur les exemples cités
