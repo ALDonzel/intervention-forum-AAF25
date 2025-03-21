@@ -2,7 +2,7 @@
 title: "Archives et infrastructures : il faut que tout bouge pour que rien ne change"
 ---
 
-La présentation et les ressources de ce site sont liées à une intervention réalisée le 26 mars2025 dans le cadre du forum de l'Association des archivistes Français.
+La présentation et les ressources de ce site sont liées à une intervention réalisée le 26 mars 2025 dans le cadre du forum de l'Association des archivistes Français.
 
 Site du Forum : [https://forum.archivistes.org/](https://forum.archivistes.org/)
 
@@ -19,3 +19,5 @@ Maintenir l’infrastructure nécessite par ailleurs de prendre conscience de la
 La maintenance suppose enfin de sortir d’une vision de sauvetage ou d’un acte unitaire de réparation, c’est, au contraire, un geste du quotidien qui devient une condition de pérennisation de l’information.
 
 Pour explorer ce travail autour de la notion de maintenance et pour analyser comment il se traduit pour les archives numériques, nous nous appuierons sur des travaux de chercheurs en archivistique, mais aussi sur ceux de sociologues des organisations. En complément de ce travail bibliographique, des entretiens avec les différents acteurs de la maintenance seront menés.
+
+![](img/banniere-avec-attention_Post-Facebook-1024x379.png)

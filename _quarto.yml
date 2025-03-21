@@ -20,8 +20,10 @@ website:
         text: Notes de lecture
       - href: nous/index.qmd
         icon: bi-people-fill
-        text: Qui sommes nous ?
-  search: false  
+        text: Qui sommes-nous ?
+  search: 
+    location: navbar
+    type: overlay
   page-footer: 
     center: "2025, site créé avec [Quarto](https://quarto.org/) par Anne-Laure Donzel. Photos et textes en CC-BY 4.0 sauf mention contraire."
 

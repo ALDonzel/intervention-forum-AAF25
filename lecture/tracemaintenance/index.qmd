@@ -11,20 +11,26 @@ description: Article paru en 2022 dans la revue Digital Humanities Quaterly
 
 [http://www.digitalhumanities.org/dhq/vol/16/1/000603/000603.html](http://www.digitalhumanities.org/dhq/vol/16/1/000603/000603.html)
 
-Infrastructure = ensemble d'éléments matériels mais pas seulement. Sortir de l'idée d'infrastructure comme outil matériel pur (SAE, supports, formats) et aller plus loin en cherchahnt chaque élément qui constitue l'infrastructure
+Infrastructure = ensemble d'éléments matériels mais pas seulement. Sortir de l'idée d'infrastructure comme outil matériel pur (SAE, supports, formats) et aller plus loin en cherchant chaque élément qui constitue l'infrastructure
 
 > dig deeper and uncover the humans who keep things going.  (Fidler and Russell 2018)
 
-Infrastructure = à mettre en relation avec la notion de conntinuum des archives : l'infrastructure est incrémentale, elle se construit au fil de l'existence de l'archive. Permet de sortir d'une vision figée et séquentielle (cf chapitre du continuum Mc Kemmish 1994 "always in a process of becoming").
+Infrastructure = à mettre en relation avec la notion de continuum des archives : l'infrastructure est incrémentale, elle se construit au fil de l'existence de l'archive. Permet de sortir d'une vision figée et séquentielle (cf chapitre du continuum Mc Kemmish 1994 "always in a process of becoming").
 
 Infrastructure côté archivistes : 
+
 * connexion au système
+
 * préservation
+
 * description...
 
 Partie usagers : 
+
 * connexion
+
 * communication
+
 * "panier"...
 
 Durant de nombreuses années : recherche de la performance technologique, de la pérennité qui passait par la durabilité du support sans insérer cela dans une infrastructure réelle. C'est le sujet de l'inter-médiation de l'infra : peu de travaux théoriques sur le sujet pourtant l'infra ne peut exister sans relation entre producteurs, archivistes, usagers...
@@ -36,9 +42,9 @@ Durant de nombreuses années : recherche de la performance technologique, de la 
 
 §13 : l'infrastructure n'est pas neutre
 
-§14 : constructution de l'infra archivistique aux USA : fait de la vision sociétale du rôle des archivistes (création des services archives par des historiens)
+§14 : construction de l'infra archivistique aux USA : fait de la vision sociétale du rôle des archivistes (création des services archives par des historiens)
 
-§15 : passage de l'historien archiviste (XIXe s.), à l'archiviste intermédiaire (~1930) et archviste médiateur (aujourd'hui)
+§15 : passage de l'historien archiviste (XIXe s.), à l'archiviste intermédiaire (~1930) et archiviste médiateur (aujourd'hui)
 
 §18 : Analogie de l'archiviste avec l'archéologue ou le pionnier ou l'agriculteur : celui qui prépare, qui creuse, qui met au jour ce qui sera utilisé par d'autres
 
@@ -47,7 +53,7 @@ Durant de nombreuses années : recherche de la performance technologique, de la 
 
 §20 : Différentes théories sur la place et le rôle de l'archiviste : gardien ou acteur, conservateur ou performeur. Pose la question de l'agentitivité de l'archiviste. Cf place du chargé de maintenance chez J. Denis.
 
-§25 : Notion de fragilité : les natures mouvantes, changeantes des intitutions, des technologies, des habitudes sociales et des parties prenantes créées de la fragilité dans le temps. Intégrité ou respect des fonds = une forme de lutte contra la fragilité des archives.
+§25 : Notion de fragilité : les natures mouvantes, changeantes des institutions, des technologies, des habitudes sociales et des parties prenantes créées de la fragilité dans le temps. Intégrité ou respect des fonds = une forme de lutte contra la fragilité des archives.
 >  It is the recognition that the archival infrastructure is not and cannot be an adamantine structure. In such an open-ended scenario, durability is only possible when there is immediate and ongoing “care and maintenance of individual components and the links between them” (Borgman et al. 2016).
 
 La pérennité ne peut se faire qu'avec une prise en charge immédiate et sur le long terme des différents éléments et de liens entre eux.

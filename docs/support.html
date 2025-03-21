@@ -28,6 +28,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -38,6 +42,17 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-ddd961a2510921635943dfbbd19534c4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -57,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -68,6 +83,7 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">Archives &amp; infrastructures - Intervention forum AAF 2025</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
@@ -96,7 +112,7 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="./nous/index.html"> <i class="bi bi-people-fill" role="img">
 </i> 
-<span class="menu-text">Qui sommes nous ?</span></a>
+<span class="menu-text">Qui sommes-nous ?</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -109,7 +125,35 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#support-de-lintervention" id="toc-support-de-lintervention" class="nav-link active" data-scroll-target="#support-de-lintervention">Support de l’intervention</a></li>
+  <li><a href="#texte-de-lintervention" id="toc-texte-de-lintervention" class="nav-link" data-scroll-target="#texte-de-lintervention">Texte de l’intervention</a>
+  <ul class="collapse">
+  <li><a href="#introduction" id="toc-introduction" class="nav-link" data-scroll-target="#introduction">Introduction</a></li>
+  <li><a href="#partie-1---penser-les-archives-comme-une-infrastructure" id="toc-partie-1---penser-les-archives-comme-une-infrastructure" class="nav-link" data-scroll-target="#partie-1---penser-les-archives-comme-une-infrastructure">Partie 1 - Penser les archives comme une infrastructure</a>
+  <ul class="collapse">
+  <li><a href="#slide-1-1" id="toc-slide-1-1" class="nav-link" data-scroll-target="#slide-1-1">Slide 1-1</a></li>
+  <li><a href="#slide-1-2" id="toc-slide-1-2" class="nav-link" data-scroll-target="#slide-1-2">Slide 1-2</a></li>
+  <li><a href="#slide-1-3" id="toc-slide-1-3" class="nav-link" data-scroll-target="#slide-1-3">Slide 1-3</a></li>
+  </ul></li>
+  <li><a href="#partie-2---larchive-dans-linfrastructure-numérique" id="toc-partie-2---larchive-dans-linfrastructure-numérique" class="nav-link" data-scroll-target="#partie-2---larchive-dans-linfrastructure-numérique">Partie 2 - L’archive dans l’infrastructure numérique</a></li>
+  <li><a href="#partie-3---quand-linfrastructure-devient-visible" id="toc-partie-3---quand-linfrastructure-devient-visible" class="nav-link" data-scroll-target="#partie-3---quand-linfrastructure-devient-visible">Partie 3 - Quand l’infrastructure devient visible</a>
+  <ul class="collapse">
+  <li><a href="#slide-3-1---exemple-du-cas-australien" id="toc-slide-3-1---exemple-du-cas-australien" class="nav-link" data-scroll-target="#slide-3-1---exemple-du-cas-australien">Slide 3-1 - Exemple du cas Australien</a></li>
+  <li><a href="#slide-3-2---exemple-de-sherpa" id="toc-slide-3-2---exemple-de-sherpa" class="nav-link" data-scroll-target="#slide-3-2---exemple-de-sherpa">Slide 3-2 - Exemple de Sherpa</a></li>
+  <li><a href="#slide-3-3---exemple-de-la-base-léonore" id="toc-slide-3-3---exemple-de-la-base-léonore" class="nav-link" data-scroll-target="#slide-3-3---exemple-de-la-base-léonore">Slide 3-3 - Exemple de la base Léonore</a></li>
+  <li><a href="#slide-3-4---exemple-du-cas-américain" id="toc-slide-3-4---exemple-du-cas-américain" class="nav-link" data-scroll-target="#slide-3-4---exemple-du-cas-américain">Slide 3-4 - Exemple du cas américain</a></li>
+  </ul></li>
+  <li><a href="#conclusion" id="toc-conclusion" class="nav-link" data-scroll-target="#conclusion">Conclusion</a></li>
+  </ul></li>
+  <li><a href="#liens-et-ressources-sur-les-exemples-cités" id="toc-liens-et-ressources-sur-les-exemples-cités" class="nav-link" data-scroll-target="#liens-et-ressources-sur-les-exemples-cités">Liens et ressources sur les exemples cités</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -151,9 +195,67 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="texte-de-lintervention" class="level1">
 <h1>Texte de l’intervention</h1>
+<p>Vous pouvez retrouver toutes les références bibliographiques citées <a href="./biblio.html">ici</a></p>
+<section id="introduction" class="level2">
+<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
+<p>Nous avons choisi de proposer une intervention qui s’intitule “il faut que tout bouge pour que rien ne change”. Nous souhaitons ainsi aborder le sujet des archives avec un regard issu des recherches en Science &amp; Technology Studies et, en particulier, avec les travaux sur les infrastructures.</p>
+<p>En évoquant le terme archives, vous avez sans aucun doute, différentes images qui vous viennent en tête : votre dernière collecte, un classement, une communication en salle de lecture… Et, à l’évocation de la notion d’infrastructure vous imaginez sans doute une route, un réseau ferré, un barrage etc.</p>
+<p>Vous devez donc difficilement faire le lien entre les deux notions. Pour cela, nous devons élargir notre vision de l’infrastructure. Pour Susan Leigh Star l’infrastructure est par définition invisible, <em>[elle] constitue une partie de l’arrière plan d’autres types d’activités</em>. Elle est prête à l’emploi. Et elle est également un concept fondamentalement relationnel.</p>
+<p>Les STS, particulièrement dans la pratique anglo-saxonne, identifient une infrastructure particulière, l’infrastructure de la connaissance (knowledge infrastructure). Le chercheur américain Paul N. Edwards les définie comme un <em>réseau solide de personnes, d’objets et d’institutions qui génèrent, partagent et maintiennent/conservent des connaissances spécifiques sur les mondes humain et naturel</em> (<em>robust network of people, artifacts, and institutions that generate, share, and maintain specific knowledge about the human, and natural worlds</em>).</p>
+<p>Sur la base de ces définitions, nous allons considérer les archives et en particulier les archives numériques, comme une infrastructure de la connaissance. La définition d’Edwards fait apparaître une notion que nous allons développer durant cette intervention : la maintenance.</p>
+<p>Dans leur ouvrage <em>Le soin des choses</em>, Jérôme Denis et David Pointille, définisse la maintenance comme l’art de faire durer les choses. Vous devez commencer à voir les liens se tisser entre archives, infrastructure et maintenance. L’acte d’archiver vise à la conservation durant un temps long des documents et des données.</p>
+<p>Nous verrons donc, dans un premier temps, comment le concept d’infrastructure s’applique aux archives. Ensuite, nous nous pencherons sur les archives numériques comme infrastructure et enfin, nous explorerons quelques exemples où l’infrastructure est devenue visible pour les archivistes numériques.</p>
+</section>
+<section id="partie-1---penser-les-archives-comme-une-infrastructure" class="level2">
+<h2 class="anchored" data-anchor-id="partie-1---penser-les-archives-comme-une-infrastructure">Partie 1 - Penser les archives comme une infrastructure</h2>
+<section id="slide-1-1" class="level3">
+<h3 class="anchored" data-anchor-id="slide-1-1">Slide 1-1</h3>
+<p>Le terme “infrastructure” est né au XIXè s. en France avec le développement de l’ingénierie. Le terme était utilisé pour distinguer tout ce qui venait en amont ou à côté de la construction pure (les études préalables, plans, réseaux…), qui elle, est la superstructure (les rails par ex. dans le cadre du réseau ferré). Alors qu’elle a inventé le terme, la France a du mal à sortir ce concept de l’ingénierie pour en faire une notion adaptée dans d’autres contextes, en particulier pour les SHS. Ce qui n’est pas le cas dans la pratique archivistique anglo-saxone qui conçoit, depuis longtemps, les archives comme une infrastructure (cf.&nbsp;les articles en <a href="./biblio.html">biblio</a> et le <a href="https://www.ideals.illinois.edu/items/199">rapport</a>) ou comme une partie d’une infrastructure plus vaste : infrastructure de la connaissance (Knowledge infrastructure) ou infrastructure scientifique (scholarly infrastructure).</p>
+<p>La notion d’infrastructure offre différents avantages : comme nous l’avons vu avec la définition de Paul Edwards en introduction, elle permet de relier l’ensemble des éléments qui composent un objet complexe. Une infrastructure c’est un réseau de personnes, d’artefact et d’institutions. Elle est relationnelle : par des échanges, des flux, des transferts entre différentes parties prenantes, personnes physiques ou morales.</p>
+</section>
+<section id="slide-1-2" class="level3">
+<h3 class="anchored" data-anchor-id="slide-1-2">Slide 1-2</h3>
+<p>Nous pouvons démarrer par un premier constat : la notion d’infrastructure est très peu utilisée dans la théorie archivistique française.</p>
+<p>En regardant les rapports annuels du SIAF entre 2000 et 2023, nous voyons la notion d’infrastructure n’apparaître que 13 fois. Et quasi exclusivement en lien avec l’archivage électronique, sur des aspects d’architecture technique, ou comme synonyme de “système d’information”. Pourtant, la notion d’infrastructure nous semble parfaitement adaptée pour les archives et, en particulier, pour les archives électroniques, mais en considérant ces dernières comme un morceau d’un tout plus vaste. Par la variété de leurs missions, les services d’archives constituent une infrastructure. Comme le souligne Ciaran B. Trace, l’infrastructure des archives est à la fois intellectuelle, physique et informationnelle.</p>
+<p>Intellectuelle car les archivistes ont théorisé leur discipline, ont conceptualisé leurs pratiques. C’est la création de définitions, de normes et d’un cadre théorique. Physique car les archives sont basés sur le stockage, la gestion d’espaces, la gestion de crise.</p>
+<p>Informationnel car l’objectif est de pouvoir fournir de l’information, là aussi en mettant en place un environnement spécifique. Par la variété des sources et la diversité des objets de recherches (administratives, scientifiques, personnels…).</p>
+</section>
+<section id="slide-1-3" class="level3">
+<h3 class="anchored" data-anchor-id="slide-1-3">Slide 1-3</h3>
+<p>Les infrastructures possèdent 2 caractéristiques principales : elles doivent être durables (elles sont pensées pour le long terme) et elles sont intrinsèquement fragiles. Les deux caractéristiques étant en partie liées.</p>
+<p>Durabilité des infrastructures : la durabilité c’est la capacité à demeurer stable dans le temps. L’infrastructure doit pouvoir continuer de servir ses objectifs durant une longue (voir une très longue) période. Vous percevez sans doute bien sur cet aspect en quoi les archives constituent une infrastructure.</p>
+<p>Fragilité des infrastructures : cette deuxième caractéristique peut sembler, a priori, une faiblesse. C’est souvent un biais de nos sociétés : être fragile est un défaut. Ce n’est pas cependant pas le cas. La reconnaissance de la fragilité des infrastructures permet d’intégrer très tôt le besoin de maintenance et du soin nécessaire à leur maintien dans le temps. Il faut accepter la défaillance, le risque de perte pour mettre en place tous les mécanismes de lutte contre cette dégénérescence. [P.215 de Denis/Pointille] Nous avons pour le moment fait peu de lien direct avec le cœur de notre sujet qui porte sur les archives numériques. Nous allons désormais voir, concrètement, comment l’infrastructure se matérialise dans les archives numériques.</p>
+</section>
+</section>
+<section id="partie-2---larchive-dans-linfrastructure-numérique" class="level2">
+<h2 class="anchored" data-anchor-id="partie-2---larchive-dans-linfrastructure-numérique">Partie 2 - L’archive dans l’infrastructure numérique</h2>
+</section>
+<section id="partie-3---quand-linfrastructure-devient-visible" class="level2">
+<h2 class="anchored" data-anchor-id="partie-3---quand-linfrastructure-devient-visible">Partie 3 - Quand l’infrastructure devient visible</h2>
+<section id="slide-3-1---exemple-du-cas-australien" class="level3">
+<h3 class="anchored" data-anchor-id="slide-3-1---exemple-du-cas-australien">Slide 3-1 - Exemple du cas Australien</h3>
+</section>
+<section id="slide-3-2---exemple-de-sherpa" class="level3">
+<h3 class="anchored" data-anchor-id="slide-3-2---exemple-de-sherpa">Slide 3-2 - Exemple de Sherpa</h3>
+</section>
+<section id="slide-3-3---exemple-de-la-base-léonore" class="level3">
+<h3 class="anchored" data-anchor-id="slide-3-3---exemple-de-la-base-léonore">Slide 3-3 - Exemple de la base Léonore</h3>
+<p>Plus près de nous la refonte de la <a href="https://www.leonore.archives-nationales.culture.gouv.fr/ui/">base Léonore</a> a aussi été un moment de mise en lumière de l’infrastructure documentaire et de l’ensemble des interstices dans lesquelles elle se niche. La base Léonore expose les données des récipiendaires de la Légion d’honneur, et elle a connu une importante réfonte en 2021.</p>
+<p>Si celle-ci a apporté d’importantes évolutions techniques, elle n’a pas forcèment fait l’unanimité et a eu un impact négatif sur des infrastructures liées à Léonore, comme Wikipedia et Wikidata. En effet, Léonore est une source d’information bibliographique et elle était utilisée dans de nombreuses fiches du projet encyclopédique. Le lien se faisait à partir des identifiants attribués à chaque légionnaire. Lors de la refonte ces identifiants n’ont pas été repris et de nouveaux, correspondat à la nouvelle base de données, ont été créés. Ceci a entraîné en cascade des milliers de liens morts, et un besoin de “réparation” par les wikimédiens. Comme dans l’exemple précédent, les usages externes n’ont pas été évalués lors du changement de l’outil. Dans ce cas, l’infrastructure n’est pas envisagée dans sa dimension relationnelle.</p>
+<p>L’objectif ici n’est pas de blâmer le projet mais de montrer que l’infrastructure bâtie au cour du temps constitue un tout et que des innovations ou des changements radicaux peuvent avoir des impacts importants, notamment sur des services tiers ou des usagers plus direct. Un autre exemple est celui <a href="https://archives.creuse.fr/actualites/message-important-au-sujet-de-nos-permaliens-1">des archives départementales de la Creuse</a> ont dû effectuer une mise à jour de leurs permaliens en 2024. On se situe ici dans le cas de la maintenance de l’infrastructure et nous pouvons saluer l’effort de communication fait, par anticipation sur ce sujet. C’est le sens de notre propos : la maintenance entraîne des actions régulières sur l’infrastructure et elles doit être évalué dans l’ensemble de ses inter-dépendances. L’un des moyens de maintenir un lien avec les usagers, notamment, c’est par la communication, comme dans l’exemple de la Creuse ou comme le fait la BNF sur sa <a href="https://www.bnf.fr/fr/politique-identifiants-bnf">politique d’identifiants pérennes</a>.</p>
+</section>
+<section id="slide-3-4---exemple-du-cas-américain" class="level3">
+<h3 class="anchored" data-anchor-id="slide-3-4---exemple-du-cas-américain">Slide 3-4 - Exemple du cas américain</h3>
+<p>Sujet d’actualité qui nous vient des État-Unis et qui va nous permettre d’ouvrir une nouvelle notion, et peut-être permettre le débat ensuite. Suite à l’élection de Donald Trump un certains nombres de sujets et mots ont été décrétés comme étant à supprimer de la communication du gouvernement. Ceci a amener l’Armée américaine à <a href="https://mamot.fr/@Pyb/114122462441319003">supprimer</a> plusieurs dizaines de milliers de fichiers images de sa photothèque en ligne. L’administration américaine avait depuis longtemps une politique d’ouverture et de réutilisation de ses contenus très forte. Les médias de cette plateforme sont donc très utilisés dans des contextes variés. Vincent Privat, Wikimédien, a ainsi collecté plus de 30.000 images de cette base afin de les déposer sur WikiCommons (bibliothèqe média de l’environnement wiki). Le but était de rendre disponible des images pouvant ensuite servir d’illustration dans Wikipédia. Ce travail peu visible de la plupart des internautes à l’époque où il a été réalisé prend aujourd’hui une nouvelle dimension. En effet, il permet aujourd’hui qu’une partie des fichiers supprimés sur la plateforme de l’US Army soient toujours présent et accessible à toutes et tous. La notion d’infrastructure et de maintenance prennent ici tout leur sens, une infrastructure devient défaillante mais une autre prend en quelque sorte le relais, non pas dans une logique de réparation au moment de la cassure de service mais en amont, par anticipation. C’est l’attention portée par cette personne, mais aussi la philosophie des Communs numériques de la connaissance comme les projets Wikimedia, qui permettent de maintenir l’accès à l’information.</p>
+</section>
+</section>
+<section id="conclusion" class="level2">
+<h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
+</section>
 </section>
 <section id="liens-et-ressources-sur-les-exemples-cités" class="level1">
 <h1>Liens et ressources sur les exemples cités</h1>
+<p>Partie 3</p>
 
 
 </section>

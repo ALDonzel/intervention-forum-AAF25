@@ -9,7 +9,7 @@ title: De la production à la maintenance
 description: Article paru dans *Questions de communication* en 2019
 ---
 
-> nous nous inscrivons dans la lignée des recherches qui défendent une approche « processuelle » de la cartographie (Kitchin, Dodge, 2007) afin de comprendre ce qui se joue dans la dynamique même de la fabrique contemporaine des données géographiques et ce que cette dynamique donne à voir des articulations concrètes entre les outils et infrastructures dits « numériques » et les processus territoriaux. (page 64)
+> Nous nous inscrivons dans la lignée des recherches qui défendent une approche « processuelle » de la cartographie (Kitchin, Dodge, 2007) afin de comprendre ce qui se joue dans la dynamique même de la fabrique contemporaine des données géographiques et ce que cette dynamique donne à voir des articulations concrètes entre les outils et infrastructures dits « numériques » et les processus territoriaux. (page 64)
 
 >  Ces choix qui peuvent sembler « purement » techniques sont toujours organisationnels et, in fine, politiques. (page 66)
 

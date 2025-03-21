@@ -28,8 +28,7 @@ Retour sur le lien entre usagers et infrastructure.
 
 > Data sharing and reuse are context-specific
 
-> Assessing the match between content, services, and communities is difficult enough when the users self-identify with a domain. Much harder to study are the
-archives that serve broad communities with diverse types of data; for example, those that span the social sciences and humanities such as DANS, or institutional repositories that serve all schools and departments of one or more universities. The more generic the data collection, the more diverse the community of users.
+> Assessing the match between content, services, and communities is difficult enough when the users self-identify with a domain. Much harder to study are the archives that serve broad communities with diverse types of data; for example, those that span the social sciences and humanities such as DANS, or institutional repositories that serve all schools and departments of one or more universities. The more generic the data collection, the more diverse the community of users.
 
 > Prepared to invest some time in helping people who request his data and not just saying, ‘Okay. There are 200 datasets and good luck with it.’ Because it gives me a moral right to ask for some support when I need data as well, because the dataset may contain ... thousands of files.
 

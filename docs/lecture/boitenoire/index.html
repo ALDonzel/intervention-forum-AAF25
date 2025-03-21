@@ -28,6 +28,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="../../site_libs/quarto-nav/headroom.min.js"></script>
 <script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -38,6 +42,17 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../site_libs/bootstrap/bootstrap-3790baeb23ec48fe6a2a71a48d01fb7e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
   "language": {
     "search-no-results-text": "Pas de résultats",
     "search-matching-documents-text": "documents trouvés",
@@ -68,6 +83,7 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">Archives &amp; infrastructures - Intervention forum AAF 2025</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Recherche"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Basculer la navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
@@ -96,7 +112,7 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="../../nous/index.html"> <i class="bi bi-people-fill" role="img">
 </i> 
-<span class="menu-text">Qui sommes nous ?</span></a>
+<span class="menu-text">Qui sommes-nous ?</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -149,8 +165,8 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><a href="https://journals.openedition.org/traces/8499">https://journals.openedition.org/traces/8499</a></p>
-<p>Article un peu loin de notre sujet mais qui offre qq réflexions intéressantes, les 4/5 premières questions sont à lire :</p>
+<p><a href="https://journals.openedition.org/traces/8499" class="uri">https://journals.openedition.org/traces/8499</a></p>
+<p>Article un peu loin de notre sujet mais qui offre quelques réflexions intéressantes, les 4/5 premières questions sont à lire :</p>
 <p><strong>Appel au changement de perspective</strong> lors de la mise en place d’infra technique : quelles externalités positives non prévues ? quelles améliorations des processus par ex. ?</p>
 <blockquote class="blockquote">
 <p>En général, je ne pense pas que nous devrions présupposer que les structures techniques complexes nécessitent un grand appareil d’État – pas plus qu’elles ne nécessitent de grandes entreprises multinationales, si l’on pense à l’industrie du pétrole. Il faudrait plutôt renverser la question : comment la mise en place d’un dispositif technique facilite-t-elle la naissance de créances financières, de relations d’endettement, de régimes de protection et de pouvoirs juridiques qui deviennent de plus en plus stables, de plus en plus étendus et interconnectés ?</p>
@@ -159,14 +175,18 @@ ul.task-list li input[type="checkbox"] {
 <blockquote class="blockquote">
 <p>Pour reprendre une formule souvent utilisée en sociologie des sciences, je cherche à ré-ouvrir des « boîtes noires ». J’ai tendance à me représenter la communauté universitaire comme vivant à l’intérieur de boîtes – des boîtes disciplinaires auxquelles on donne le nom d’« État », d’« économie », ou d’« histoire », qui sont aussi les boîtes de nos mondes sociotechniques – et n’osant pas faire tomber le plâtre des murs.</p>
 </blockquote>
-<p><strong>Infrastructure : ensemble de canaux et de connexions qui ne sont pas forcément visibles</strong>. 2 choses : * Notion de travail en réseau et de sociabilité : ex. d’AMAE ou par le pair à pair on a appris, on a construit, on fait l’infra * ingénieurs français du rail au XIXe différencient infrastructure (tout ce qui précèdent : enquêtes, plans…) et superstructure (les rails eux-mêmes). Cela aboutie a une différence entre sphere publique (infra) et privée (super)</p>
+<p><strong>Infrastructure : ensemble de canaux et de connexions qui ne sont pas forcément visibles</strong>. 2 choses :</p>
+<ul>
+<li><p>Notion de travail en réseau et de sociabilité : ex. d’AMAE ou par le pair à pair, on a appris, on a construit, on fait l’infra</p></li>
+<li><p>ingénieurs français du rail au XIXe différencient infrastructure (tout ce qui précèdent : enquêtes, plans…) et superstructure (les rails eux-mêmes). Cela aboutit à une différence entre sphère publique (infra) et privée (super)</p></li>
+</ul>
 <blockquote class="blockquote">
 <p>Selon [Elyachar], les pratiques de la sociabilité féminine produisent une infrastructure sociale faite de canaux de communication. Cette infrastructure sert de point d’appui à une diversité de projets économiques, à la fois personnels et collectifs. Elle interprète les projets d’empowerment de ces femmes au sein de l’industrie du développement international, comme une tentative pour rendre visible cette infrastructure collective, et pouvoir ainsi la monétiser pour en faire une source de revenus.</p>
 </blockquote>
 <blockquote class="blockquote">
 <p>Il ne faut pas que le terme d’« infrastructure » devienne un terme attrape-tout, un peu comme celui de « réseau », pour parler de toutes les choses qui sont reliées les unes aux autres de façon invisible. L’infrastructure a une relation spécifique aux flux, aux matériaux, à la durabilité technique, au travail, au mouvement et à l’interconnexion. Comme nous le rappelle Andrew Barry (2015), du fait que l’infrastructure est faite pour durer, il faut la soumettre à toute une série de travaux d’entretien pour réparer les pannes et prévenir l’usure, mais aussi à des pratiques d’inspection, de vérification du matériel et de surveillance. Tout ceci doit nous permettre de nous éloigner des conceptions trop simples qui identifient l’infrastructure à un réseau, ou qui l’opposent à la superstructure.</p>
 </blockquote>
-<p><sub><em>Image couverture : Google Deepmind sur Unsplash</em></sub></p>
+<p><sub><em>Image&nbsp;couverture&nbsp;:&nbsp;Google&nbsp;Deepmind&nbsp;sur&nbsp;Unsplash</em></sub></p>
 
 
 

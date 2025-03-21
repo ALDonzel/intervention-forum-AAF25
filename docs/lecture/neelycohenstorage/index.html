@@ -28,6 +28,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="../../site_libs/quarto-nav/headroom.min.js"></script>
 <script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -38,6 +42,17 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../site_libs/bootstrap/bootstrap-3790baeb23ec48fe6a2a71a48d01fb7e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
   "language": {
     "search-no-results-text": "Pas de résultats",
     "search-matching-documents-text": "documents trouvés",
@@ -68,6 +83,7 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">Archives &amp; infrastructures - Intervention forum AAF 2025</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Recherche"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Basculer la navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
@@ -96,7 +112,7 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="../../nous/index.html"> <i class="bi bi-people-fill" role="img">
 </i> 
-<span class="menu-text">Qui sommes nous ?</span></a>
+<span class="menu-text">Qui sommes-nous ?</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -150,15 +166,15 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p><a href="https://lil.law.harvard.edu/century-scale-storage/">https://lil.law.harvard.edu/century-scale-storage/</a></p>
-<p>En posant la question “Si vous deviez conserver durant 100 ans, comment feriez-vous ?”, cet objet numérique passe en revue différents modes de stockage de l’information numérique (sur disque durs, dans le cloud, par impression…). Il détaille ainsi les avantages, les inconvénients et les enjeux de chaque mode de conservation. Il met en évidence que ce n’est pas le moyen matériel qui compte mais que c’est <strong>la maintenance</strong>.</p>
+<p>En posant la question “Si vous deviez conserver durant 100 ans, comment feriez-vous ?”, cet objet numérique passe en revue différents modes de stockage de l’information numérique (sur disques durs, dans le cloud, par impression…). Il détaille ainsi les avantages, les inconvénients et les enjeux de chaque mode de conservation. Il met en évidence que ce n’est pas le moyen matériel qui compte mais que c’est <strong>la maintenance</strong>.</p>
 <blockquote class="blockquote">
 <p>No single methodology that we discuss holds an obvious answer to this question, and that is fine, particularly because professional archivists recommend making and storing multiple copies of anything in multiple formats as a best practice. For example, the Smithsonian endorses a “3-2-1 Rule” when it comes to data storage: “3 copies of the data, stored on 2 different media, with at least 1 stored off-site or in the cloud.” Or as archivist Trevor Owens puts it in his seminal text Theory and Craft of Digital Preservation, “In digital preservation we place our trust in having multiple copies. We cannot trust the durability of digital media, so we need to make multiple copies.” When storing digital data, archivists recommend utilizing file formats that are widespread and not dependent on a single commercial entity—in the words of the Smithsonian, “non-proprietary, platform-independent, unencrypted, lossless, uncompressed, [and] commonly used.” But at the century scale, even our most widely adopted file formats are completely untested. Digital history is not long enough to definitively settle on best practices.</p>
 </blockquote>
-<p>Instantanéité de la restitution des supports en parallèle de la perte d’une vision sur le long terme des artefact. Le sujet au coeur de la préservation numérique est ancien et ancré dans la théorie archivistique : préserver le matériel, le logiciel est indispensable pour la perennité du contenu.</p>
+<p>Instantanéité de la restitution des supports en parallèle de la perte d’une vision sur le long terme des artefacts. Le sujet au coeur de la préservation numérique est ancien et ancré dans la théorie archivistique : préserver le matériel, le logiciel est indispensable pour la pérennité du contenu.</p>
 <blockquote class="blockquote">
 <p>Putting data on a hard drive is an act of writing.</p>
 </blockquote>
-<p>La perennité numérique est tributaire des fabriquants, intégrer la faible qualité des matériaux est indispensable</p>
+<p>La pérennité numérique est tributaire des fabricants, intégrer la faible qualité des matériaux est indispensable</p>
 <blockquote class="blockquote">
 <p>It’s a component of what could be called digital Fordism, a digital order marked by the mass production of standardized hardware products meant for standardized software, used by the masses and specialists alike.</p>
 </blockquote>
@@ -169,7 +185,7 @@ ul.task-list li input[type="checkbox"] {
 <blockquote class="blockquote">
 <p>To achieve century-scale storage, you would have to create, fund, and ensure the survival of an institution to maintain, financially support, and remember them. This institution would also have to preserve the file formats, software, hardware, operating system, and every other digital element the data you are storing relies on, and continue to develop means to access them.</p>
 </blockquote>
-<p>Intégrer la <em>fragilité</em> dans la réflexion. Sortir d’une vision démiurge de la pérenisation (maintenir à tout prix en l’état ou avoir le support/format/matériel ultime et absolu) pour accepter la fragilité et la dégénerescence</p>
+<p>Intégrer la <em>fragilité</em> dans la réflexion. Sortir d’une vision démiurge de la pérennisation (maintenir à tout prix en l’état ou avoir le support/format/matériel ultime et absolu) pour accepter la fragilité et la dégénérescen.ce</p>
 <blockquote class="blockquote">
 <p>Fragility, and the culture it creates, can be an asset in inspiring the sort of care necessary for the long term. A system that seeks the indestructible or infallible has the potential to encourage overconfidence, nonchalance, and the ultimate enemy of all archives, neglect.</p>
 </blockquote>
@@ -180,11 +196,11 @@ ul.task-list li input[type="checkbox"] {
 <blockquote class="blockquote">
 <p>To store data in the cloud is to outsource that storage, to give it over to a custodian, a guardian, whose sole purpose is receiving, safeguarding, and delivering that data for whomever is willing to pay.</p>
 </blockquote>
-<p>Avec le cloud, il y a également l’idée d’une meilleur garantie sur la conservation (mieux sécurisée…). On va retrouver (avec les data center) les problématiques traditionnelles des intitutions culturelles : risques liés aux inondations, incendies, vols, intrusion… et en plus des problématiques géo-politiques plus complexes que sur l’environnement physique (liés à l’extratérritorialité de la localisation des data centers). A cela s’ajoute le sujet des câbles sous-marins qui doivent aussi faire l’objet d’une maintenance.</p>
+<p>Avec le cloud, il y a également l’idée d’une meilleure garantie sur la conservation (mieux sécurisée…). On va retrouver (avec les data center) les problématiques traditionnelles des institutions culturelles : risques liés aux inondations, incendies, vols, intrusion… et en plus des problématiques géo-politiques plus complexes que sur l’environnement physique (liés à l’extraterritorialité de la localisation des data centers). À cela s’ajoute le sujet des câbles sous-marins qui doivent aussi faire l’objet d’une maintenance.</p>
 <blockquote class="blockquote">
 <p>Despite the internet’s founding dream, its birth ideal, of being a telecommunications network that could survive a nuclear attack, it’s fairly certain any substantive nuclear exchange would render the cloud unusable.</p>
 </blockquote>
-<p>Dans le cas du cloud, la pérennisation repose sur un contrat marchand : tant que vous payer il y a une garantie de service, mais le jour où vous arrêtez…</p>
+<p>Dans le cas du cloud, la pérennisation repose sur un contrat marchand : tant que vous payez il y a une garantie de service, mais le jour où vous arrêtez…</p>
 <blockquote class="blockquote">
 <p>But you still have to pay them. Every month or every year. Forever. You can turn off the machines that you own for a while and then turn them back on, and everything you stored will still be there, but if you stop paying your cloud storage fee the data is gone, probably forever.</p>
 </blockquote>
@@ -206,7 +222,7 @@ ul.task-list li input[type="checkbox"] {
 <blockquote class="blockquote">
 <p>While various international law frameworks for the protection of cultural and intellectual heritage during wars have existed since the 19th century, no such frameworks exist for peacetime. If they did, they might radically change our capacity to trust both the custodians of the cloud and corporate rights holders. A different legal and civic order would affect this entire analysis. But for now, the cloud is only governed by itself.</p>
 </blockquote>
-<p>Internet, le réseau n’est pas un système décentralisé quel impact sur l’infrastructure ? Notamment sur la dépendance aux composants techniques (ex. des puces qui viennent en très très grande partie d’un fabriquant taïwannais)</p>
+<p>Internet, le réseau n’est pas un système décentralisé quel impact sur l’infrastructure ? Notamment sur la dépendance aux composants techniques (ex. des puces qui viennent en très très grande partie d’un fabricant taïwannais)</p>
 <p>Idée du piratage comme d’un mode de préservation numérique décentralisé (SciHub par ex.)</p>
 <p>L’identifiant pérenne est un élément infrastructurel</p>
 <blockquote class="blockquote">
@@ -219,7 +235,10 @@ ul.task-list li input[type="checkbox"] {
 <blockquote class="blockquote">
 <p>The success of century-scale storage comes down to the same thing that storage and preservation of any duration does: maintenance.</p>
 </blockquote>
-<p>Il faut accepter l’évolution, le changement. Même le plus poussé des supports de stockage (ADN par ex.) nécessitera de la maintenance. &gt; How it is stored will evolve or change as it is maintained, but if there are maintainers, it will persist.</p>
+<p>Il faut accepter l’évolution, le changement. Même le plus poussé des supports de stockage (ADN par ex.) nécessitera de la maintenance.</p>
+<blockquote class="blockquote">
+<p>How it is stored will evolve or change as it is maintained, but if there are maintainers, it will persist.</p>
+</blockquote>
 <p>Plus il va y avoir de dépendances : matériel, logiciel…plus la maintenance sera importante.</p>
 <blockquote class="blockquote">
 <p>The real solution to century-scale storage, especially at scale, is to change this reality. Successful century-scale storage will require a massive investment in digital preservation, a societal commitment. Politicians, governments, companies, and investors will have to be convinced, incentivized, or even bullied.</p>

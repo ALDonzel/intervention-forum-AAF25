@@ -16,14 +16,17 @@ Dispositif : désigne les procédures administratives, les choses, les technolog
 
 > Les objets-frontières sont un moyen de gérer les tensions entre des points de vue divergents. page 363
 
-> Il faut du temps pour les objets deviennent naturels dans une communauté de pratique donnée. (voir les arguments de Bruno Latour dans _la science en action_ pour une bonne discussion de ce point.) Pour une communauté, les objets existent en suivant une trajectoire de naturalisation. Cette trajectoire présente à la fois un caractère ambigu et durale. Ni la naturalisation d'un objet ni la durée pendant laquelle il restera naturalisé ne sont prédéterminées ; il faut une activité pratique pour obtenir ce résultat et le maintenir. Plus un objet est naturalisé, plus la relation qu'entretient la communauté à son égard et incontestable et le plus les circonstances contingentes et historiques de sa naissance deviennent invisibles, s'abîmant dans la mémoire de la communauté pour y être oubliées. page 371
+> Il faut du temps pour les objets deviennent naturels dans une communauté de pratique donnée. (voir les arguments de Bruno Latour dans *la science en action* pour une bonne discussion de ce point.) Pour une communauté, les objets existent en suivant une trajectoire de naturalisation. Cette trajectoire présente à la fois un caractère ambigu et durale. Ni la naturalisation d'un objet ni la durée pendant laquelle il restera naturalisé ne sont prédéterminées ; il faut une activité pratique pour obtenir ce résultat et le maintenir. Plus un objet est naturalisé, plus la relation qu'entretient la communauté à son égard et incontestable et le plus les circonstances contingentes et historiques de sa naissance deviennent invisibles, s'abîmant dans la mémoire de la communauté pour y être oubliées. page 371
 
-Une façon de prendre soin : 
-> Pour reprendre les termes de Nelle Morton, il s'agit "d'entendre pour parler" (_hearing to speech_), ce qui renvoie aux propositions suivantes : 
-* Entendre pour parler renvoie à une nouvelle manière de parler mais aussi à une manière nouvelle d'entendre.
-* Entendre pour parler est politique.
-* Entendre pour parler n'est jamais unilatéral. Une fois qu'une personne est entendue à travers sa pareil, elle devient une personne qui entend.
-* Parler en premier afin d'être entendu, c'est exercer un pouvoir. Entendre pour faire naître la parole, c'est donne du pouvoir.
+Une façon de prendre soin : \> Pour reprendre les termes de Nelle Morton, il s'agit "d'entendre pour parler" (*hearing to speech*), ce qui renvoie aux propositions suivantes :
+
+-   Entendre pour parler renvoie à une nouvelle manière de parler mais aussi à une manière nouvelle d'entendre.
+
+-   Entendre pour parler est politique.
+
+-   Entendre pour parler n'est jamais unilatéral. Une fois qu'une personne est entendue à travers sa pareil, elle devient une personne qui entend.
+
+-   Parler en premier afin d'être entendu, c'est exercer un pouvoir. Entendre pour faire naître la parole, c'est donne du pouvoir.
 
 > Une partie du propos moral de ce livre concerne la manière dont nous pouvons, par la remise en question et l'analyse de l'infrastructure, mieux nous entendre pour nous parler les uns les autres. Page 382
 
@@ -31,4 +34,4 @@ Définition d'une infrastructure frontière
 
 > Toute infrastructure opérationnelle sert simultanèment plusieurs communautés de pratique, qu'elle appartiennent à une seule organisation ou qu'elles soient réparties entre plusieurs organisations. Un sytème d'information hospitalier, par exemple, doit répondre aux agendas conjoints et séparés des infirmières, des archivistes, des agences gouvernementales, des médecins, des épidémiologistes des patients, et ainsi de suite. Pour ce faire, il doit mettre en jeu des régimes stables d'objets-frontière de sorte que toute communauté de pratique puisse communiquer avec le système d'information et en tirer les types d'objets informationnels dont elle a besoin. page 387
 
-~*Image couverture : Google Deepmind sur Unsplash*~
+~*Image couverture : Google Deepmind sur Unsplash*~

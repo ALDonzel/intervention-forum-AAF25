@@ -9,30 +9,44 @@ description: Notes quelques cadres stratégiques et rapports annuels du SIAF
 
 ## Cadre stratégique commun de modernisation des archives 2020-2024
 
-[https://www.info.gouv.fr/organisation/delegue-et-comite-interministeriel-aux-archives-de-france/cadre-strategique-commun-de-modernisation-des-archives-3042](https://www.info.gouv.fr/organisation/delegue-et-comite-interministeriel-aux-archives-de-france/cadre-strategique-commun-de-modernisation-des-archives-3042)
+<https://www.info.gouv.fr/organisation/delegue-et-comite-interministeriel-aux-archives-de-france/cadre-strategique-commun-de-modernisation-des-archives-3042>
 
-Le terme "infrastructure" apparaissait 2 fois, dans un sens très technique : 
-    * p. 33 "solutions logicielles, infrastructures, projets d’archivage de données de même nature"
-    * p. "Politiques de collectes, de sécurisation et de traitement, organisations, méthodologies, compétences et outils techniques contribuent à rendre possible l’archivage numérique autant que les infrastructures informatiques, les réseaux ou les applications qui le matérialisent et opèrent les traitements et services finaux". Dans ce cas, la dimension politique et organisationnelle sont opposées.
-    
+Le terme "infrastructure" apparaissait 2 fois, dans un sens très technique :
+
+* p. 33 "solutions logicielles, infrastructures, projets d’archivage de données de même nature"
+
+* "Politiques de collectes, de sécurisation et de traitement, organisations, méthodologies, compétences et outils techniques contribuent à rendre possible l’archivage numérique autant que les infrastructures informatiques, les réseaux ou les applications qui le matérialisent et opèrent les traitements et services finaux". Dans ce cas, la dimension politique et organisationnelle sont opposées.
+
 ## Stratégie interministérielle des archives 2025-2029
-[https://www.info.gouv.fr/upload/media/content/0001/12/ade5d75b9c5d2dcf5b4886f3b6d024c115ffebd1.pdf](https://www.info.gouv.fr/upload/media/content/0001/12/ade5d75b9c5d2dcf5b4886f3b6d024c115ffebd1.pdf)
+
+<https://www.info.gouv.fr/upload/media/content/0001/12/ade5d75b9c5d2dcf5b4886f3b6d024c115ffebd1.pdf>
 
 Le terme "infrastructure" ne semble pas apparaître. On trouve la notion d'écosystème, de réseau...
 
 ## Dans les rapports annuels du SIAF 2000-2023
 
 * 2023 : 2 occurences en lien avec VITAM
+
 * 2021-2022 : 0
+
 * 2020 : norme 42-013 et 1 avec VITAM
+
 * 2019 : 0
+
 * 2018 : 1 avec AD-ESSOR
+
 * 2017 : 1 avec AD-ESSOR
+
 * 2016 : 0
+
 * 2015 : 1 destructions anticipées d'archives
+
 * 2014 : 0
+
 * 2013 : 1 ADAMANT
+
 * 2006 : 4 occurences, 3 AE et pour l'opération d'urba intégrant le bâtiment archives des AN à Pierrefite
+
 * 2003 : une partie s'intitule "Informatique, portails et infrastructure,suivi de projets", 1 occurence infra réseau
 
-~*Image couverture : Google Deepmind sur Unsplash*~
+~*Image\ couverture\ :\ Google\ Deepmind\ sur\ Unsplash*~
