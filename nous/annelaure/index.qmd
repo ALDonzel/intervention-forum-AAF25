@@ -22,8 +22,24 @@ comments: false
 
 ## Bio
 
-Anne-Laure Donzel a été archiviste, chargée de projets d'archivage numérique, durant une quinzaine d'années.
+Anne-Laure Donzel a été archiviste en collectivités, chargée de projets d'archivage numérique, durant une quinzaine d'années. Elle a été membre et co-animatrice du groupe AMAE de l'AAF.
 
-Elle est désormais consultante sur l'open data.
+Elle est désormais consultante sur l'open data chez [Datactivist](https://open.datactivist.coop/). Elle s'intéresse particulièrement aux enjeux de partage et de réutilisation des données et des documents.
+
+## Quelques réalisations
+
+* Archives et open data : quinze ans d’évolutions et d’interactions, *La Gazette des Archives*, N° 271, 2024
+
+* [Réutilisation des archives publiques : un trésor toujours trop bien gardé](Réutilisation des archives publiques : un trésor toujours trop bien gardé), 2021
+
+* [Archivistes, professionnels de l’open data : nous n’avons pas le même maillot mais nous avons la même passion](https://medium.com/datactivist/archivistes-professionnels-de-lopen-data-nous-n-avons-pas-le-m%C3%AAme-maillot-mais-nous-avons-la-67fcbced1238), 2020
+
+* [Datavisualisation d'un jeu de données des Archives Nationales](https://aldonzel.github.io/moulins/test_flex.html)
+
+* [Analyse sur les annonces d'emplois publiées sur le site de l'AAF](https://aldonzel.github.io/emplois_aaf/redaction.html)
+
+
+
+
 
 ~*Photo par Anthony Micallef*~

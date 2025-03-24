@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.42">
+<meta name="generator" content="quarto-1.4.553">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Bibliographie – Archives &amp; infrastructures - Intervention forum AAF 2025</title>
+<title>Archives &amp; infrastructures - Intervention forum AAF 2025 - Bibliographie</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -54,10 +54,10 @@ div.csl-indent {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-ddd961a2510921635943dfbbd19534c4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -101,7 +101,7 @@ div.csl-indent {
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -133,7 +133,7 @@ div.csl-indent {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-            <div class="quarto-navbar-tools">
+          <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -183,8 +183,9 @@ div.csl-indent {
 <span class="smallcaps">Borgman</span> Christine L., <span class="smallcaps">Scharnhorst</span> Andrea et <span class="smallcaps">Golshan</span> Milena S., «&nbsp;Digital Data Archives as Knowledge Infrastructures: Mediating Data Sharing and Reuse&nbsp;», 2018,[<a href="https//doi.org/10.48550/ARXIV.1802.02689">https//doi.org/10.48550/ARXIV.1802.02689</a>].
 </div>
 <div class="csl-entry" style="margin-bottom: 1em;" role="listitem">
-<span class="smallcaps">Bowker</span> Geoffrey, <span class="smallcaps">Star</span> Susan Leigh, <span class="smallcaps">Boullier</span> Henri, <span class="smallcaps">Cardon</span> Vincent, <span class="smallcaps">Dagiral</span> Éric, <span class="smallcaps">Kotras</span> Baptiste, <span class="smallcaps">Peerbaye</span> Ashveen, <span class="smallcaps">Zabban</span> Vinciane, <span class="smallcaps">Cardon</span> Vincent, <span class="smallcaps">Dagiral</span> Éric et <span class="smallcaps">Peerbaye</span> Ashveen, <i>Arranger les choses: des conséquences de la classification</i>, Paris, Éditions de l’EHESS, coll. «&nbsp;EHESS translations&nbsp;», 2023.
+<span class="smallcaps">Bowker</span> Geoffrey, <span class="smallcaps">Star</span> Susan Leigh, <span class="smallcaps">Boullier</span> Henri, <span class="smallcaps">Cardon</span> Vincent, <span class="smallcaps">Dagiral</span> Éric, <span class="smallcaps">Kotras</span> Baptiste, <span class="smallcaps">Peerbaye</span> Ashveen, <span class="smallcaps">Zabban</span> Vinciane, <span class="smallcaps">Cardon</span> Vincent, <span class="smallcaps">Dagiral</span> Éric et <span class="smallcaps">Peerbaye</span> Ashveen, <i>Arranger les choses : des conséquences de la classification</i>, Paris, Éditions de l’EHESS, coll. «&nbsp;EHESS translations&nbsp;», 2023.
 </div>
+<p><span class="smallcaps">DeGood</span> Kevin, <em>Infrastructure Investment Decisions Are Political, Not Technical</em>, Center for American Progress, 2020, p.&nbsp;8, [<a href="https://www.americanprogress.org/article/infrastructure-investment-decisions-political-not-technical/" class="uri">https://www.americanprogress.org/article/infrastructure-investment-decisions-political-not-technical/</a>].</p>
 <div class="csl-entry" style="margin-bottom: 1em;" role="listitem">
 <span class="smallcaps">Denis</span> Jérôme, <i>Soin des choses et infrastructures numériques : quelle durabilité demain ?</i>, Intervention dans le cadre de Numérique en Communs, 2024, [<span style="text-decoration:underline;"><a href="https://www.youtube.com/watch?feature=shared&amp;v=eY1lYSfoYyYhttps://www.youtube.com/watch?feature=shared&amp;v=eY1lYSfoYyY">https://www.youtube.com/watch?feature=shared&amp;v=eY1lYSfoYyY</a></span>].
 </div>
@@ -303,7 +304,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const onCopySuccess = function(e) {
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -335,27 +347,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
-  }
-  const getTextToCopy = function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-  }
-  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
-    text: getTextToCopy
   });
-  clipboard.on('success', onCopySuccess);
-  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
-      text: getTextToCopy,
-      container: window.document.getElementById('quarto-embedded-source-code-modal')
-    });
-    clipboardModal.on('success', onCopySuccess);
-  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -363,7 +355,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
@@ -460,6 +452,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

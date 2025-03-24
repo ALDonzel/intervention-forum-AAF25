@@ -1,12 +1,5 @@
 [
   {
-    "listing": "/nous/index.html",
-    "items": [
-      "/nous/annelaure/index.html",
-      "/nous/julien/index.html"
-    ]
-  },
-  {
     "listing": "/lecture/index.html",
     "items": [
       "/lecture/boitenoire/index.html",
@@ -23,6 +16,13 @@
       "/lecture/rosatibug/index.html",
       "/lecture/starethno/index.html",
       "/lecture/tracemaintenance/index.html"
+    ]
+  },
+  {
+    "listing": "/nous/index.html",
+    "items": [
+      "/nous/annelaure/index.html",
+      "/nous/julien/index.html"
     ]
   }
 ]

@@ -4,7 +4,7 @@ title: "Bibliographie"
 
 <?xml version="1.0"?>
 
-::::::::::::::::::::::::::::::::::: {.csl-bib-body style="line-height: 1.35; "}
+::: {.csl-bib-body style="line-height: 1.35; "}
 ::: {.csl-entry style="margin-bottom: 1em;"}
 [Beltrame]{.smallcaps} Tiziana et [Peerbaye]{.smallcaps} Ashveen, « Prendre soin des infrastructures. Introduction à la traduction de « L’ethnographie des infrastructures » de Susan Leigh Star », <i>Tracés</i>, n<sup>o</sup> 35, 2018, p. 179‑186, \[[https//doi.org/10.4000/traces.8443](https//doi.org/10.4000/traces.8443)\].
 :::
@@ -26,8 +26,10 @@ title: "Bibliographie"
 :::
 
 ::: {.csl-entry style="margin-bottom: 1em;"}
-[Bowker]{.smallcaps} Geoffrey, [Star]{.smallcaps} Susan Leigh, [Boullier]{.smallcaps} Henri, [Cardon]{.smallcaps} Vincent, [Dagiral]{.smallcaps} Éric, [Kotras]{.smallcaps} Baptiste, [Peerbaye]{.smallcaps} Ashveen, [Zabban]{.smallcaps} Vinciane, [Cardon]{.smallcaps} Vincent, [Dagiral]{.smallcaps} Éric et [Peerbaye]{.smallcaps} Ashveen, <i>Arranger les choses: des conséquences de la classification</i>, Paris, Éditions de l’EHESS, coll. « EHESS translations », 2023.
+[Bowker]{.smallcaps} Geoffrey, [Star]{.smallcaps} Susan Leigh, [Boullier]{.smallcaps} Henri, [Cardon]{.smallcaps} Vincent, [Dagiral]{.smallcaps} Éric, [Kotras]{.smallcaps} Baptiste, [Peerbaye]{.smallcaps} Ashveen, [Zabban]{.smallcaps} Vinciane, [Cardon]{.smallcaps} Vincent, [Dagiral]{.smallcaps} Éric et [Peerbaye]{.smallcaps} Ashveen, <i>Arranger les choses : des conséquences de la classification</i>, Paris, Éditions de l’EHESS, coll. « EHESS translations », 2023.
 :::
+
+[DeGood]{.smallcaps} Kevin, *Infrastructure Investment Decisions Are Political, Not Technical*, Center for American Progress, 2020, p. 8, \[<https://www.americanprogress.org/article/infrastructure-investment-decisions-political-not-technical/>\].
 
 ::: {.csl-entry style="margin-bottom: 1em;"}
 [Denis]{.smallcaps} Jérôme, <i>Soin des choses et infrastructures numériques : quelle durabilité demain ?</i>, Intervention dans le cadre de Numérique en Communs, 2024, \[[[https://www.youtube.com/watch?feature=shared&v=eY1lYSfoYyY](https://www.youtube.com/watch?feature=shared&v=eY1lYSfoYyYhttps://www.youtube.com/watch?feature=shared&v=eY1lYSfoYyY)]{style="text-decoration:underline;"}\].
@@ -132,4 +134,4 @@ title: "Bibliographie"
 ::: csl-entry
 <i>Collection no. 005 : Archive</i>, \[\[<https://roadsides.net/collection-no-005/>\]{style="text-decoration:underline;"}\].
 :::
-:::::::::::::::::::::::::::::::::::
+:::
