@@ -6,7 +6,7 @@ title: "Bibliographie"
 
 ::: {.csl-bib-body style="line-height: 1.35; "}
 ::: {.csl-entry style="margin-bottom: 1em;"}
-[Beltrame]{.smallcaps} Tiziana et [Peerbaye]{.smallcaps} Ashveen, « Prendre soin des infrastructures. Introduction à la traduction de « L’ethnographie des infrastructures » de Susan Leigh Star », <i>Tracés</i>, n<sup>o</sup> 35, 2018, p. 179‑186, \[[https//doi.org/10.4000/traces.8443](https//doi.org/10.4000/traces.8443)\].
+[Beltrame]{.smallcaps} Tiziana et [Peerbaye]{.smallcaps} Ashveen, « Prendre soin des infrastructures. Introduction à la traduction de « L’ethnographie des infrastructures » de Susan Leigh Star », <i>Tracés</i>, n<sup>o</sup> 35, 2018, p. 179‑186, \[<https://doi.org/10.4000/traces.8443>\].
 :::
 
 ::: {.csl-entry style="margin-bottom: 1em;"}
@@ -14,20 +14,22 @@ title: "Bibliographie"
 :::
 
 ::: {.csl-entry style="margin-bottom: 1em;"}
-[Borgman]{.smallcaps} Christine L., [Darch]{.smallcaps} Peter T., [Pasquetto]{.smallcaps} Irene V. et [Wofford]{.smallcaps} Morgan F., « Our Knowledge of Knowledge Infrastructures: Lessons Learned and Future Directions », Report of Knowledge Infrastructures Workshop, vol. 27, 2020, \[[https//doi.org/10.1002/pra2.2016.14505301057](https//doi.org/10.1002/pra2.2016.14505301057)\].
+[Borgman]{.smallcaps} Christine L., [Darch]{.smallcaps} Peter T., [Pasquetto]{.smallcaps} Irene V. et [Wofford]{.smallcaps} Morgan F., « Our Knowledge of Knowledge Infrastructures: Lessons Learned and Future Directions », Report of Knowledge Infrastructures Workshop, vol. 27, 2020, \[<https://escholarship.org/uc/item/9rm6b7d4>\].
 :::
 
 ::: {.csl-entry style="margin-bottom: 1em;"}
-[Borgman]{.smallcaps} Christine L., [Sands]{.smallcaps} Ashley E., [Darch]{.smallcaps} Peter T. et [Golshan]{.smallcaps} Milena S., « The durability and fragility of knowledge infrastructures: Lessons learned from astronomy », <i>Proceedings of the Association for Information Science and Technology</i>, n<sup>o</sup> 1, vol. 53, 2016, p. 1‑10, \[[https//doi.org/10.1002/pra2.2016.14505301057](https//doi.org/10.1002/pra2.2016.14505301057)\].
+[Borgman]{.smallcaps} Christine L., [Sands]{.smallcaps} Ashley E., [Darch]{.smallcaps} Peter T. et [Golshan]{.smallcaps} Milena S., « The durability and fragility of knowledge infrastructures: Lessons learned from astronomy », <i>Proceedings of the Association for Information Science and Technology</i>, n<sup>o</sup> 1, vol. 53, 2016, p. 1‑10, \[<https://doi.org/10.1002/pra2.2016.14505301057>\].
 :::
 
 ::: {.csl-entry style="margin-bottom: 1em;"}
-[Borgman]{.smallcaps} Christine L., [Scharnhorst]{.smallcaps} Andrea et [Golshan]{.smallcaps} Milena S., « Digital Data Archives as Knowledge Infrastructures: Mediating Data Sharing and Reuse », 2018,\[[https//doi.org/10.48550/ARXIV.1802.02689](https//doi.org/10.48550/ARXIV.1802.02689)\].
+[Borgman]{.smallcaps} Christine L., [Scharnhorst]{.smallcaps} Andrea et [Golshan]{.smallcaps} Milena S., « Digital Data Archives as Knowledge Infrastructures: Mediating Data Sharing and Reuse », 2018,\[<https://doi.org/10.48550/ARXIV.1802.02689>\].
 :::
 
 ::: {.csl-entry style="margin-bottom: 1em;"}
 [Bowker]{.smallcaps} Geoffrey, [Star]{.smallcaps} Susan Leigh, [Boullier]{.smallcaps} Henri, [Cardon]{.smallcaps} Vincent, [Dagiral]{.smallcaps} Éric, [Kotras]{.smallcaps} Baptiste, [Peerbaye]{.smallcaps} Ashveen, [Zabban]{.smallcaps} Vinciane, [Cardon]{.smallcaps} Vincent, [Dagiral]{.smallcaps} Éric et [Peerbaye]{.smallcaps} Ashveen, <i>Arranger les choses : des conséquences de la classification</i>, Paris, Éditions de l’EHESS, coll. « EHESS translations », 2023.
 :::
+
+[Caron]{.smallcaps} Bertrand, *Leave the files alone – Le petit artisan de la préservation numérique*, \[<https://digipres.fr/archives/90>\], consulté le 25 mars 2025.
 
 [DeGood]{.smallcaps} Kevin, *Infrastructure Investment Decisions Are Political, Not Technical*, Center for American Progress, 2020, p. 8, \[<https://www.americanprogress.org/article/infrastructure-investment-decisions-political-not-technical/>\].
 
@@ -36,19 +38,21 @@ title: "Bibliographie"
 :::
 
 ::: {.csl-entry style="margin-bottom: 1em;"}
-[Denis]{.smallcaps} Jérôme et [Marquet]{.smallcaps} Clément, « De la production à la maintenance : faire exister collectivement des données géographiques ouvertes », <i>Questions de communication</i>, vol. 36, 2019, p. 63‑83, \[[https//doi.org/10.4000/questionsdecommunication.20914](https//doi.org/10.4000/questionsdecommunication.20914)\].
+[Denis]{.smallcaps} Jérôme et [Marquet]{.smallcaps} Clément, « De la production à la maintenance : faire exister collectivement des données géographiques ouvertes », <i>Questions de communication</i>, vol. 36, 2019, p. 63‑83, \[<https://doi.org/10.4000/questionsdecommunication.20914>\].
+:::
+
+[Derrida]{.smallcaps} Jacques, *Mal d’archive : une impression freudienne*, Paris, Galilée, coll. « Incises », 1995.
+
+::: {.csl-entry style="margin-bottom: 1em;"}
+[Edwards]{.smallcaps} Paul N., « Infrastructure and Modernity: Force, Time, and Social Organization in the History of Sociotechnical Systems », in Thomas J. [Misa]{.smallcaps}, Philip [Brey]{.smallcaps} et Andrew [Feenberg]{.smallcaps} (dir.), <i>Modernity and Technology</i>, The MIT Press, 2002, p. 185‑226, \[<https://doi.org/10.7551/mitpress/4729.003.0011>\].
 :::
 
 ::: {.csl-entry style="margin-bottom: 1em;"}
-[Edwards]{.smallcaps} Paul N., « Infrastructure and Modernity: Force, Time, and Social Organization in the History of Sociotechnical Systems », in Thomas J. [Misa]{.smallcaps}, Philip [Brey]{.smallcaps} et Andrew [Feenberg]{.smallcaps} (dir.), <i>Modernity and Technology</i>, The MIT Press, 2002, p. 185‑226, \[[https//doi.org/10.7551/mitpress/4729.003.0011](https//doi.org/10.7551/mitpress/4729.003.0011)\].
+[Edwards]{.smallcaps} Paul N., [Mayernik]{.smallcaps} Matthew S., [Batcheller]{.smallcaps} Archer L., [Bowker]{.smallcaps} Geoffrey C. et [Borgman]{.smallcaps} Christine L., « Science friction: Data, metadata, and collaboration », <i>Social Studies of Science</i>, n<sup>o</sup> 5, vol. 41, 2011, p. 667‑690, \[<https://doi.org/10.1177/0306312711413314>\].
 :::
 
 ::: {.csl-entry style="margin-bottom: 1em;"}
-[Edwards]{.smallcaps} Paul N., [Mayernik]{.smallcaps} Matthew S., [Batcheller]{.smallcaps} Archer L., [Bowker]{.smallcaps} Geoffrey C. et [Borgman]{.smallcaps} Christine L., « Science friction: Data, metadata, and collaboration », <i>Social Studies of Science</i>, n<sup>o</sup> 5, vol. 41, 2011, p. 667‑690, \[[https//doi.org/10.1177/0306312711413314](https//doi.org/10.1177/0306312711413314)\].
-:::
-
-::: {.csl-entry style="margin-bottom: 1em;"}
-[Ehrlich]{.smallcaps} Kate et [Cash]{.smallcaps} Debra, « The Invisible World of Intermediaries: A Cautionary Tale », <i>Computer Supported Cooperative Work (CSCW)</i>, n<sup>o</sup> 1, vol. 8, 1999, p. 147‑167, \[[https//doi.org/10.1023/A:1008696415354](https//doi.org/10.1023/A:1008696415354)\].
+[Ehrlich]{.smallcaps} Kate et [Cash]{.smallcaps} Debra, « The Invisible World of Intermediaries: A Cautionary Tale », <i>Computer Supported Cooperative Work (CSCW)</i>, n<sup>o</sup> 1, vol. 8, 1999, p. 147‑167, \[<https://doi.org/10.1023/A:1008696415354>\].
 :::
 
 ::: {.csl-entry style="margin-bottom: 1em;"}
@@ -56,7 +60,7 @@ title: "Bibliographie"
 :::
 
 ::: {.csl-entry style="margin-bottom: 1em;"}
-[Galloway]{.smallcaps} Patricia Kay, « Archiving Digital Objects as Maintenance: Reading a Rosetta Machine », <i>Preservation, Digital Technology & Culture</i>, n<sup>o</sup> 1, vol. 46, 2017, p. 7‑16, \[[https//doi.org/10.1515/pdtc-2016-0024](https//doi.org/10.1515/pdtc-2016-0024)\].
+[Galloway]{.smallcaps} Patricia Kay, « Archiving Digital Objects as Maintenance: Reading a Rosetta Machine », <i>Preservation, Digital Technology & Culture</i>, n<sup>o</sup> 1, vol. 46, 2017, p. 7‑16, \[<https://doi.org/10.1515/pdtc-2016-0024>\].
 :::
 
 ::: {.csl-entry style="margin-bottom: 1em;"}
@@ -72,23 +76,23 @@ title: "Bibliographie"
 :::
 
 ::: {.csl-entry style="margin-bottom: 1em;"}
-[Leigh Star]{.smallcaps} Susan, « L’ethnographie des infrastructures », <i>Tracés</i>, n<sup>o</sup> 35, 2018, p. 187‑206, \[[https//doi.org/10.4000/traces.8455](https//doi.org/10.4000/traces.8455)\].
+[Leigh Star]{.smallcaps} Susan, « L’ethnographie des infrastructures », <i>Tracés</i>, n<sup>o</sup> 35, 2018, p. 187‑206, \[<https://doi.org/10.4000/traces.8455>\].
 :::
 
 ::: {.csl-entry style="margin-bottom: 1em;"}
-[Mitchell]{.smallcaps} Timothy, [Charbonnier]{.smallcaps} Pierre et [Vincent]{.smallcaps} Julien, « Étudier les infrastructures pour ouvrir les boîtes noires politiques. Entretien avec Timothy Mitchell », <i>Tracés</i>, n<sup>o</sup> 35, 2018, p. 209‑228, \[[https//doi.org/10.4000/traces.8499](https//doi.org/10.4000/traces.8499)\].
+[Mitchell]{.smallcaps} Timothy, [Charbonnier]{.smallcaps} Pierre et [Vincent]{.smallcaps} Julien, « Étudier les infrastructures pour ouvrir les boîtes noires politiques. Entretien avec Timothy Mitchell », <i>Tracés</i>, n<sup>o</sup> 35, 2018, p. 209‑228, \[<https://doi.org/10.4000/traces.8499>\].
 :::
 
 ::: {.csl-entry style="margin-bottom: 1em;"}
-[Moalic-Minnaert]{.smallcaps} Maëlle, « Les archivistes à l’épreuve du « logiciel métier » », <i>Socio-anthropologie</i>, n<sup>o</sup> 47, 2023, p. 115‑128, \[[https//doi.org/10.4000/socio-anthropologie.13375](https//doi.org/10.4000/socio-anthropologie.13375)\].
+[Moalic-Minnaert]{.smallcaps} Maëlle, « Les archivistes à l’épreuve du « logiciel métier » », <i>Socio-anthropologie</i>, n<sup>o</sup> 47, 2023, p. 115‑128, \[<https://doi.org/10.4000/socio-anthropologie.13375>\].
 :::
 
 ::: {.csl-entry style="margin-bottom: 1em;"}
-[Musiani]{.smallcaps} Francesca, « L’invisible qui façonne. Études d’infrastructure et gouvernance d’Internet », <i>Tracés. Revue de Sciences humaines</i>, n<sup>o</sup> 35, 2018, p. 161‑176, \[[https//doi.org/10.4000/traces.8419](https//doi.org/10.4000/traces.8419)\].
+[Musiani]{.smallcaps} Francesca, « L’invisible qui façonne. Études d’infrastructure et gouvernance d’Internet », <i>Tracés. Revue de Sciences humaines</i>, n<sup>o</sup> 35, 2018, p. 161‑176, \[<https://doi.org/10.4000/traces.8419>\].
 :::
 
 ::: {.csl-entry style="margin-bottom: 1em;"}
-[Neely-Cohen]{.smallcaps} Maxwell, "If you had something to store for 100 years, how would you do it ?", <i>Century-Scale Storage</i>, Harvard Law School, Library Innovation Lab 2024, \[[[https://lil.law.harvard.edu/century-scale-storage](https://lil.law.harvard.edu/century-scale-storagehttps://lil.law.harvard.edu/century-scale-storage)]{style="text-decoration:underline;"}\].
+[Neely-Cohen]{.smallcaps} Maxwell, "If you had something to store for 100 years, how would you do it ?", <i>Century-Scale Storage</i>, Harvard Law School, Library Innovation Lab 2024, \[<https://lil.law.harvard.edu/century-scale-storage>\].
 :::
 
 ::: {.csl-entry style="margin-bottom: 1em;"}
@@ -108,11 +112,11 @@ title: "Bibliographie"
 :::
 
 ::: {.csl-entry style="margin-bottom: 1em;"}
-[Sauret]{.smallcaps} Nicolas, [Minel]{.smallcaps} Jean-Luc, [Bunel]{.smallcaps} Mélanie et [Pouyllau]{.smallcaps} Stéphane, « Infrastructures, architectures et outils des données de la recherche », in Claire [Scopsi]{.smallcaps}, Clothilde [Roullier]{.smallcaps}, Martine [Sin Blima-Barru]{.smallcaps} et Édouard [Vasseur]{.smallcaps} (dir.), <i>Les nouveaux paradigmes de l’archive</i>, Pierrefitte-sur-Seine, Publications des Archives nationales, coll. « Actes », 2024, , \[[https//doi.org/10.4000/books.pan.7306](https//doi.org/10.4000/books.pan.7306)\].
+[Sauret]{.smallcaps} Nicolas, [Minel]{.smallcaps} Jean-Luc, [Bunel]{.smallcaps} Mélanie et [Pouyllau]{.smallcaps} Stéphane, « Infrastructures, architectures et outils des données de la recherche », in Claire [Scopsi]{.smallcaps}, Clothilde [Roullier]{.smallcaps}, Martine [Sin Blima-Barru]{.smallcaps} et Édouard [Vasseur]{.smallcaps} (dir.), <i>Les nouveaux paradigmes de l’archive</i>, Pierrefitte-sur-Seine, Publications des Archives nationales, coll. « Actes », 2024, , \[<https://doi.org/10.4000/books.pan.7306>\].
 :::
 
 ::: {.csl-entry style="margin-bottom: 1em;"}
-[Speck]{.smallcaps} Reto et [Links]{.smallcaps} Petra, « The Missing Voice: Archivists and Infrastructures for Humanities Research », <i>International Journal of Humanities and Arts Computing</i>, n<sup>o</sup> 1‑2, vol. 7, 2013, p. 128‑146, \[[https//doi.org/10.3366/ijhac.2013.0085](https//doi.org/10.3366/ijhac.2013.0085)\].
+[Speck]{.smallcaps} Reto et [Links]{.smallcaps} Petra, « The Missing Voice: Archivists and Infrastructures for Humanities Research », <i>International Journal of Humanities and Arts Computing</i>, n<sup>o</sup> 1‑2, vol. 7, 2013, p. 128‑146, \[<https://doi.org/10.3366/ijhac.2013.0085>\].
 :::
 
 ::: {.csl-entry style="margin-bottom: 1em;"}
@@ -129,9 +133,5 @@ title: "Bibliographie"
 
 ::: {.csl-entry style="margin-bottom: 1em;"}
 [Vitali Rosati]{.smallcaps} Marcello, <i>Éloge du bug: être libre à l’époque du numérique</i>, Paris, Zones, 2024.
-:::
-
-::: csl-entry
-<i>Collection no. 005 : Archive</i>, \[\[<https://roadsides.net/collection-no-005/>\]{style="text-decoration:underline;"}\].
 :::
 :::
