@@ -1,5 +1,6 @@
 ---
 title: "Bibliographie"
+format: odt
 ---
 
 <?xml version="1.0"?>
